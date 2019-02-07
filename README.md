@@ -1,2 +1,2 @@
 # rynergalaus.github.io
-Ryner Galaus
+RSG Wordpress Plugin Files
