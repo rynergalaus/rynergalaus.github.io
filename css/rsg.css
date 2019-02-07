@@ -1,9 +1,12 @@
 
-.rsg-addons_page_rsggds{
+.rsg-body{
     background: #2b2b2b;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #fff;
+    font-size: 15px;
 }
 
-.rsg_big_title{
+.rsg-big_title{
     font-size: 30px;
     font-weight: 800;
     margin: 0;
