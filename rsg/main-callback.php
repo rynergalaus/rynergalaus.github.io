@@ -1,7 +1,3 @@
-
-<link rel="stylesheet" href="//rynergalaus.github.io/css/rsg.css" type="text/css">
-<script src="//rynergalaus.github.io/js/rsg-main-callback.js"></script>
-
 <div style="padding: 20px;">
 	<h1 style="text-align:center; font-size:30px; color:#fff;" >COMPILATION OF ADDONS</h1><br>
 	Active Addons / Plugins
