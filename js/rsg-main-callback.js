@@ -17,8 +17,6 @@ if( jQuery('body').hasClass('toplevel_page_rsg_addons_page') ){
                 refs = jQuery(this).attr('href');
                 if( hre == refs ){
                     jQuery('.rsg-hide.'+dat).slideDown();
-                }else{
-                    jQuery('.rsg-hide.'+dat).slideUp();
                 }
             });
         });
