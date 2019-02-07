@@ -1,11 +1,14 @@
 
+<link rel="stylesheet" href="//rynergalaus.github.io/css/rsg.css" type="text/css">
+<script src="//rynergalaus.github.io/js/rsg-main-callback.js"></script>
+
 <div style="padding: 20px;">
 	<h1 style="text-align:center; font-size:30px; color:#fff;" >COMPILATION OF ADDONS</h1><br>
 	Active Addons / Plugins
 	<div style="padding:10px 20px;">
 
-		<div class="RSGLTA">
-			<a href="/wp-admin/admin.php?page=rsglta">
+		<div class="RSGLTA rsg-hide" >
+			<a href="admin.php?page=rsglta" class="rsg_plugin_links" data="RSGLTA">
 				<strong>RSG Libraries Theme Addon</strong>
 			</a>
 			<div style="padding:5px 20px;">
@@ -13,8 +16,8 @@
 			</div>
 		</div>
 
-		<div class="RSGCAD">
-			<a href="/wp-admin/admin.php?page=rsgcad">
+		<div class="RSGCAD rsg-hide" >
+			<a href="admin.php?page=rsgcad" class="rsg_plugin_links" data="RSGCAD">
 				<strong>RSG Countries Array for Developers</strong>
 			</a>
 			<div style="padding:5px 20px;">
@@ -23,8 +26,8 @@
 			</div>
 		</div>
 
-		<div class="RSGGDS">
-			<a href="/wp-admin/admin.php?page=rsggds">
+		<div class="RSGGDS rsg-hide" >
+			<a href="admin.php?page=rsggds" class="rsg_plugin_links" data="RSGGDS">
 				<strong>RSG Retrieve Google Drive Spreadsheet</strong>
 			</a>
 			<div style="padding:5px 20px;">
