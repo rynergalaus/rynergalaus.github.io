@@ -156,8 +156,9 @@
     .rsg-form-select,
     .rsg-form select{
         width: 100%;
-        height: unset;
-        padding:10px;
+        height: unset !important;
+        line-height: unset!important;
+        padding:5px !important;
         border-radius:5px;
     }
 	.rsg-form-select,
@@ -236,4 +237,32 @@
 		background: #2b2b2b;
 	    box-shadow: 0px 0px 15px -2px #00a0d2;
 	    padding: 20px;
+	    position: relative;
+	    color: #fff;
 	}
+	.rsg-container-dark-blue h4{
+		color: #00a0d2;
+		margin: 0 !important;
+		font-size: 15px !important;
+	}
+
+
+
+/*
+************************
+* R - TABLES	
+************************
+*/	
+	.rsg-tables-dark-all table::-webkit-scrollbar, .rsg-tables-dark::-webkit-scrollbar { width: 10px; background: #222; }
+	.rsg-tables-dark-all table::-webkit-scrollbar-track,.rsg-tables-dark::-webkit-scrollbar-track { background: none; background-color: none; box-shadow: none; -webkit-box-shadow: none; border-radius: 100%; }
+	.rsg-tables-dark-all table::-webkit-scrollbar-thumb,.rsg-tables-dark::-webkit-scrollbar-thumb { background: #eee; border-radius: 5px; }
+	.rsg-tables-dark-all table::-webkit-scrollbar-thumb:hover,.rsg-tables-dark::-webkit-scrollbar-thumb:hover { background: #eee;  }
+
+	.rsg-tables-dark-all table, .rsg-tables{
+		width: 100%;
+	    background: #fff;
+	    border: 1px solid #fff;
+	    border-spacing: 0;
+	    color: #2b2b2b; }
+	.rsg-tables-dark-all table td, .rsg-tables-dark td{padding: 5px;}
+	.rsg-tables-dark-all table tr:nth-child(even), .rsg-tables-dark tr:nth-child(even) {background: #2b2b2b; color: #fff;}
