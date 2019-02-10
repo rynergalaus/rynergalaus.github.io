@@ -84,12 +84,13 @@
     .rsg-padding_0_25{ padding: 0 25px; }
     .rsg-padding_0_30{ padding: 0 30px; }
 
-    .rsg-padding_5_0{ padding: 0 5px; }
-    .rsg-padding_10_0{ padding: 0 10px; }
-    .rsg-padding_15_0{ padding: 0 15px; }
-    .rsg-padding_20_0{ padding: 0 20px; }
-    .rsg-padding_25_0{ padding: 0 25px; }
-    .rsg-padding_30_0{ padding: 0 30px; }
+    .rsg-padding_5_0{ padding: 5px 0; }
+        .rsg-padding_5_10{ padding: 5px 10px; }
+    .rsg-padding_10_0{ padding: 10px 0; }
+    .rsg-padding_15_0{ padding: 15px 0; }
+    .rsg-padding_20_0{ padding: 20px 0; }
+    .rsg-padding_25_0{ padding: 25px 0; }
+    .rsg-padding_30_0{ padding: 30px 0; }
 
     .rsg-padding_5{ padding: 5px; }
     .rsg-padding_10{ padding: 10px; }
@@ -261,8 +262,28 @@
     .rsg-tables-dark-all table, .rsg-tables{
         width: 100%;
         background: #fff;
-        border: 1px solid #fff;
+        border: 1px solid #2b2b2b;
         border-spacing: 0;
-        color: #2b2b2b; }
+        color: #2b2b2b;
+        font-size: 12px; }
     .rsg-tables-dark-all table td, .rsg-tables-dark td{padding: 5px;}
-    .rsg-tables-dark-all table tr:nth-child(even), .rsg-tables-dark tr:nth-child(even) {background: #2b2b2b; color: #fff;}
+    .rsg-tables-dark-all table tr:nth-child(even), .rsg-tables-dark tr:nth-child(even) {background: #eee;}
+
+
+/*
+************************
+* R - TABS  
+************************
+*/  
+    .rsg-tab-white-red,
+    .rsg-tabs-white-red .rsg-tab-title{
+        cursor: pointer;
+        display: inline-block;
+        transition: ease .4s; -webkit-transition: ease .4s;
+        color: #fff;
+    }
+    .rsg-tab-white-red:hover,
+    .rsg-tabs-white-red .rsg-tab-title:hover{
+        transition: ease .4s; -webkit-transition: ease .4s;
+        color: #dc3545;
+    }
