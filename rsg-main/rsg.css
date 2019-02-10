@@ -52,6 +52,7 @@
 * R - TRANSITIONS
 ************************
 */  
+    .rsg-body a, .rsg-body a:hover{ transition: ease 2s; -webkit-transition: ease 2s; }
     .rsg-transition_2_0, .rsg-transition_2_0:hover{ transition: ease 2s; -webkit-transition: ease 2s; }
     .rsg-transition_1_0, .rsg-transition_1_0:hover{ transition: ease 1s; -webkit-transition: ease 1s; }
     .rsg-transition_0_8, .rsg-transition_0_8:hover{ transition: ease 0.8s; -webkit-transition: ease 0.8s; }
@@ -166,8 +167,15 @@
     .toplevel_page_rsg_addons_page .gt-admin-notice{
         display: none !important;
     }
-
-
+/*
+************************
+* R - SUBPAGES
+************************
+*/  
+    .rsg-addons_page_rsglta,
+    .rsg-addons_page_rsgcad{ background-color: #2d2d2d; color: #fff; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: 300; }
+    .rsg-addons_page_rsgcad h4,
+    .rsg-addons_page_rsglta h4{ font-size: 15px !important; color: #dc3545; margin: 0 !important;}
 /*
 ************************
 * R - MODALS
