@@ -971,7 +971,61 @@
     "flag" :"https://dl.dropboxusercontent.com/s/13s6aw6rcbaocbo/denmark.png?dl=0",
     "states": "",
     "prov":"",
-    "regions":""
+    "regions":[
+      { "name": "Region Hovedstaden",
+        "provinces": [
+          { "name":"Byen København",
+            "towns": [ { "0":"Copenhagen","1":"Frederiksberg","2":"Dragør","3":"Tårnby"} ]
+          },
+          { "name":"Københavns omegn",
+            "towns": [{ "0" : "Albertslund", "1" : "Ballerup", "2" : "Brøndby", "3" : "Gentofte", "4" : "Gladsaxe", "5" : "Glostrup", "6" : "Herlev", "7" : "Hvidovre", "8" : "Høje-Taastrup", "9" : "Ishøj", "10" : "Lyngby-Taarbæk", "11" : "Rødovre", "12" : "Vallensbæk"}]
+          },
+          { "name":"Nordsjælland",
+            "towns": [{ "0" : "Allerød", "1" : "Egedal", "2" : "Fredensborg", "3" : "Frederikssund", "4" : "Furesø", "5" : "Gribskov", "6" : "Halsnæs", "7" : "Helsingør", "8" : "Hillerød", "9" : "Hørsholm", "10" : "Rudersdal"}]
+          },
+          { "name":"Bornholm",
+            "towns": [ { "0":"Bornholm","1":"Ertholmene"} ]
+          }
+        ]
+      },
+      { "name": "Region Sjælland",
+        "provinces": [
+          { "name":"Østsjælland",
+            "towns": [{ "0" : "Greve", "1" : "Køge", "2" : "Lejre", "3" : "Roskilde", "4" : "Solrød"}]
+          },
+          { "name":"Vest- og Sydsjælland",
+            "towns": [{ "0" : "Faxe", "1" : "Guldborgsund", "2" : "Holbæk", "3" : "Kalundborg", "4" : "Lolland", "5" : "Næstved", "6" : "Odsherred", "7" : "Ringsted", "8" : "Slagelse", "9" : "Sorø", "10" : "Stevns", "11" : "Vordingborg"}]
+          }
+        ]
+      },
+      { "name": "Region Syddanmark",
+        "provinces": [
+          { "name":"Fyn",
+            "towns": [{ "0" : "Assens", "1" : "Faaborg", "2" : "Kerteminde", "3" : "Langeland", "4" : "Middelfart", "5" : "Nordfyn", "6" : "Nyborg", "7" : "Odense", "8" : "Svendborg", "9" : "Ærø"}]
+          },
+          { "name":"Sydjylland",
+            "towns": [{ "0" : "Billund", "1" : "Esbjerg", "2" : "Fanø", "3" : "Fredericia", "4" : "Haderslev", "5" : "Kolding", "6" : "Sønderborg", "7" : "Tønder", "8" : "Varde", "9" : "Vejen", "10" : "Vejle", "11" : "Aabenraa"}]
+          }
+        ]
+      },
+      { "name": "Region Midtjylland",
+        "provinces": [
+          { "name":"Vestjylland",
+            "towns": [{ "0" : "Herning", "1" : "Holstebro", "2" : "Ikast", "3" : "Lemvig", "4" : "Ringkøbing-Skjern", "5" : "Skive", "6" : "Struer", "7" : "Viborg"}]
+          },
+          { "name":"Østjylland",
+            "towns": [{ "0" : "Favrskov", "1" : "Hedensted", "2" : "Horsens", "3" : "Norddjurs", "4" : "Odder", "5" : "Randers", "6" : "Samsø", "7" : "Silkeborg", "8" : "Skanderborg", "9" : "Syddjurs", "10" : "Aarhus"}]
+          }
+        ]
+      },
+      { "name": "Region Nordjylland",
+        "provinces": [
+          { "name":"Nordjylland",
+            "towns": [{ "0" : "Brønderslev", "1" : "Frederikshavn", "2" : "Hjørring", "3" : "Jammerbugt", "4" : "Læsø", "5" : "Mariagerfjord", "6" : "Morsø", "7" : "Rebild", "8" : "Thisted", "9" : "Vesthimmerland", "10" : "Aalborg"}]
+          }
+        ]
+      }
+    ]
    },
    {
     "name":"Djibouti",
@@ -1106,7 +1160,85 @@
     "flag" :"https://dl.dropboxusercontent.com/s/9i0nhiz9y6s83l7/finland.png?dl=0",
     "states": "",
     "prov":"",
-    "regions":""
+    "regions":[
+      { "name": "Lapland",
+        "provinces":"",
+        "towns":[{ "0" : "Enontekiö", "1" : "Inari", "2" : "Kemi", "3" : "Kemijärvi", "4" : "Keminmaa", "5" : "Kittilä", "6" : "Kolari", "7" : "Muonio", "8" : "Pelkosenniemi", "9" : "Pello", "10" : "Posio", "11" : "Ranua", "12" : "Rovaniemi", "13" : "Salla", "14" : "Savukoski", "15" : "Simo", "16" : "Sodankylä", "17" : "Tervola", "18" : "Tornio", "19" : "Utsjoki", "20" : "Ylitornio"}]
+      },
+      { "name": "North Ostrobothnia",
+        "provinces": "",
+        "towns":[{ "0" : "Kuusamo", "1" : "Taivalkoski", "2" : "Haapajärvi", "3" : "Kärsämäki", "4" : "Nivala", "5" : "Pyhäjärvi", "6" : "Reisjärvi", "7" : "Hailuoto", "8" : "Kempele", "9" : "Liminka", "10" : "Lumijoki", "11" : "Muhos", "12" : "Oulu", "13" : "Tyrnävä", "14" : "Ii", "15" : "Pudasjärvi", "16" : "Utajärvi", "17" : "Vaala", "18" : "Pyhäjoki", "19" : "Raahe", "20" : "Siikajoki", "21" : "Haapavesi", "22" : "Pyhäntä", "23" : "Siikalatva", "24" : "Alavieska", "25" : "Kalajoki", "26" : "Merijärvi", "27" : "Oulainen", "28" : "Sievi", "29" : "Ylivieska"}]
+      },
+      { "name": "Kainuu",
+        "provinces":"",
+        "towns":[{ "0" : "Kajaani", "1" : "Paltamo", "2" : "Ristijärvi", "3" : "Sotkamo", "4" : "Hyrynsalmi", "5" : "Kuhmo", "6" : "Puolanka", "7" : "Suomussalmi"}]
+      },
+      { "name": "North Karelia",
+        "provinces":"",
+        "towns":[{ "0" : "Ilomantsi", "1" : "Joensuu", "2" : "Juuka", "3" : "Kontiolahti", "4" : "Liperi", "5" : "Outokumpu", "6" : "Polvijärvi", "7" : "Kitee", "8" : "Rääkkylä", "9" : "Tohmajärvi", "10" : "Lieksa", "11" : "Nurmes", "12" : "Valtimo"}]
+      },
+      { "name": "Northern Savonia",
+        "provinces":"",
+        "towns":[{ "0" : "Iisalmi", "1" : "Kaavi", "2" : "Keitele", "3" : "Kiuruvesi", "4" : "Kuopio", "5" : "Lapinlahti", "6" : "Leppävirta", "7" : "Pielavesi", "8" : "Rautalampi", "9" : "Rautavaara", "10" : "Siilinjärvi", "11" : "Sonkajärvi", "12" : "Suonenjoki", "13" : "Tervo", "14" : "Tuusniemi", "15" : "Varkaus", "16" : "Vesanto", "17" : "Vieremä"}]
+      },
+      { "name": "Southern Savonia",
+        "provinces":"",
+        "towns":[{ "0" : "Enonkoski", "1" : "Heinävesi", "2" : "Hirvensalmi", "3" : "Joroinen", "4" : "Juva", "5" : "Kangasniemi", "6" : "Mikkeli", "7" : "Mäntyharju", "8" : "Pertunmaa", "9" : "Pieksämäki", "10" : "Puumala", "11" : "Rantasalmi", "12" : "Savonlinna", "13" : "Sulkava"}]
+      },
+      { "name": "South Ostrobothnia",
+        "provinces":"",
+        "towns":[{ "0" : "Alajärvi", "1" : "Evijärvi", "2" : "Lappajärvi", "3" : "Vimpeli", "4" : "Alavus", "5" : "Kuortane", "6" : "Soini", "7" : "Ähtäri", "8" : "Ilmajoki", "9" : "Kauhava", "10" : "Kurikka", "11" : "Lapua", "12" : "Seinäjoki", "13" : "Isojoki", "14" : "Karijoki", "15" : "Kauhajoki", "16" : "Teuva"}]
+      },
+      { "name": "Central Ostrobothnia",
+        "provinces":"",
+        "towns":[{ "0" : "Halsua", "1" : "Kaustinen", "2" : "Lestijärvi", "3" : "Perho", "4" : "Toholampi", "5" : "Veteli", "6" : "Kannus", "7" : "Kokkola"}]
+      },
+      { "name": "Ostrobothnia",
+        "provinces":"",
+        "towns":[{ "0" : "Isokyrö", "1" : "Kaskinen", "2" : "Laihia", "3" : "Vaasa","4" : "Jakobstad", "5" : "Korsholm", "6" : "Korsnäs", "7" : "Kristinestad", "8" : "Kronoby", "9" : "Larsmo", "10" : "Malax", "11" : "Närpes", "12" : "Nykarleby", "13" : "Pedersöre", "14" : "Vörå"}]
+      },
+      { "name": "Pirkanmaa",
+        "provinces":"",
+        "towns":[{ "0" : "Hämeenkyrö", "1" : "Ikaalinen", "2" : "Kihniö", "3" : "Parkano", "4" : "Juupajoki", "5" : "Mänttä-Vilppula", "6" : "Orivesi", "7" : "Ruovesi", "8" : "Virrat", "9" : "Akaa", "10" : "Urjala", "11" : "Valkeakoski", "12" : "Punkalaidun", "13" : "Sastamala", "14" : "Kangasala", "15" : "Lempäälä", "16" : "Nokia", "17" : "Pirkkala", "18" : "Pälkäne", "19" : "Tampere", "20" : "Vesilahti", "21" : "Ylöjärvi"}]
+      },
+      { "name": "Central Finland",
+        "provinces":"",
+        "towns":[{ "0" : "Äänekoski", "1" : "Konnevesi", "2" : "Jämsä", "3" : "Kuhmoinen", "4" : "Joutsa", "5" : "Luhanka", "6" : "Hankasalmi", "7" : "Jyväskylä", "8" : "Laukaa", "9" : "Muurame", "10" : "Petäjävesi", "11" : "Toivakka", "12" : "Uurainen", "13" : "Keuruu", "14" : "Multia", "15" : "Kannonkoski", "16" : "Karstula", "17" : "Kivijärvi", "18" : "Kyyjärvi", "19" : "Saarijärvi", "20" : "Kinnula", "21" : "Pihtipudas", "22" : "Viitasaari"}]
+      },
+      { "name": "Satakunta",
+        "provinces":"",
+        "towns":[{ "0" : "Honkajoki", "1" : "Jämijärvi", "2" : "Kankaanpää", "3" : "Karvia", "4" : "Siikainen", "5" : "Harjavalta", "6" : "Huittinen", "7" : "Kokemäki", "8" : "Merikarvia", "9" : "Nakkila", "10" : "Pomarkku", "11" : "Pori", "12" : "Ulvila", "13" : "Eura", "14" : "Eurajoki", "15" : "Rauma", "16" : "Säkylä"}]
+      },
+      { "name": "Southwest Finland",
+        "provinces":"",
+        "towns":[{ "0" : "Kimitoön", "1" : "Pargas", "2" : "Salo", "3" : "Somero", "4" : "Kaarina", "5" : "Lieto", "6" : "Masku", "7" : "Mynämäki", "8" : "Naantali", "9" : "Nousiainen", "10" : "Paimio", "11" : "Raisio", "12" : "Rusko", "13" : "Sauvo", "14" : "Turku", "15" : "[3]", "16" : "Aura", "17" : "Koski Tl", "18" : "Loimaa", "19" : "Marttila", "20" : "Oripää", "21" : "Pöytyä", "22" : "Kustavi", "23" : "Laitila", "24" : "Pyhäranta", "25" : "Taivassalo", "26" : "Uusikaupunki", "27" : "Vehmaa"}]
+      },
+      { "name": "South Karelia",
+        "provinces":"",
+        "towns":[{ "0" : "Imatra", "1" : "Parikkala", "2" : "Rautjärvi", "3" : "Ruokolahti", "4" : "Lappeenranta", "5" : "Lemi", "6" : "Luumäki", "7" : "Savitaipale", "8" : "Taipalsaari"}]
+      },
+      { "name": "Päijänne Tavastia",
+        "provinces":"",
+        "towns":[{ "0" : "Asikkala", "1" : "Hartola", "2" : "Heinola", "3" : "Hollola", "4" : "Kärkölä", "5" : "Lahti", "6" : "Orimattila", "7" : "Padasjoki", "8" : "Sysmä"}]
+      },
+      { "name": "Tavastia Proper",
+        "provinces":"",
+        "towns":[{ "0" : "Forssa", "1" : "Humppila", "2" : "Jokioinen", "3" : "Tammela", "4" : "Ypäjä", "5" : "Hattula", "6" : "Hämeenlinna", "7" : "Janakkala", "8" : "Hausjärvi", "9" : "Loppi", "10" : "Riihimäki"}]
+      },
+      { "name": "Uusimaa",
+        "provinces":"",
+        "towns":[{ "0" : "Espoo", "1" : "Helsinki", "2" : "Hyvinkää", "3" : "Järvenpää", "4" : "Kauniainen", "5" : "Kerava", "6" : "Vantaa", "7" : "Karkkila", "8" : "Lohja", "9" : "Hanko", "10" : "Raseborg", "11" : "Loviisa", "12" : "Porvoo","13" : "Kirkkonummi", "14" : "Mäntsälä", "15" : "Nurmijärvi", "16" : "Pornainen", "17" : "Sipoo", "18" : "Siuntio", "19" : "Tuusula", "20" : "Vihti", "21" : "Ingå", "22" : "Lapinjärvi", "23" : "Askola", "24" : "Myrskylä", "25" : "Pukkila"}]
+      },
+      { "name": "Kymenlaakso",
+        "provinces":"",
+        "towns":[{ "0" : "Kotka", "1" : "Hamina", "2" : "Pyhtää", "3" : "Virolahti", "4" : "Miehikkälä", "5" : "Kouvola", "6" : "Iitti"}]
+      },
+      { "name": "LaplÅland Islands",
+        "provinces":"",
+        "towns":[{ "0" : "Mariehamn", "1" : "Jomala", "2" : "Finström", "3" : "Lemland", "4" : "Saltvik", "5" : "Hammarland", "6" : "Sund", "7" : "Eckerö", "8" : "Föglö", "9" : "Geta", "10" : "Brändö", "11" : "Vårdö", "12" : "Lumparland", "13" : "Kumlinge", "14" : "Kökar", "15" : "Sottunga"}]
+      }
+
+    ]
    },
    {
     "name":"France",
