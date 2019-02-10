@@ -147,14 +147,24 @@
 * R - FORM CONTENTS
 ************************
 */
+	.rsg-form{
+
+	}
 
     .rsg-input,
-    .rsg-input_all input{
+    .rsg-input_all input,
+    .rsg-form-select,
+    .rsg-form select{
         width: 100%;
         height: unset;
         padding:10px;
         border-radius:5px;
     }
+	.rsg-form-select,
+	.rsg-form select{
+		appearance:none;
+		-webkit-appearance:none;
+	}
 
 /*
 ************************
@@ -216,3 +226,14 @@
         padding: 20px 15px;
         margin:auto;
     }
+
+/*
+************************
+* R - CONTAINERS
+************************
+*/
+	.rsg-container-dark-blue{
+		background: #2b2b2b;
+	    box-shadow: 0px 0px 15px -2px #00a0d2;
+	    padding: 20px;
+	}
