@@ -9,7 +9,7 @@
     background: #2b2b2b;
     font-family: Georgia, "Times New Roman", Times, serif;
     color: #fff;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 .rsg-body::-webkit-scrollbar {
@@ -157,9 +157,9 @@
     .rsg-form-select,
     .rsg-form select{
         width: 100%;
-        height: unset !important;
-        line-height: unset!important;
-        padding:5px !important;
+        height: unset ;
+        line-height: unset;
+        padding:5px ;
         border-radius:5px;
     }
 	.rsg-form-select,
@@ -185,7 +185,7 @@
 ************************
 */  
     .rsg-addons_page_rsglta,
-    .rsg-addons_page_rsgcad{ background-color: #2d2d2d; color: #fff; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: 300; }
+    .rsg-addons_page_rsgcad{ background-color: #2d2d2d; color: #fff; font-weight: 300; }
     .rsg-addons_page_rsgcad h4,
     .rsg-addons_page_rsglta h4{ font-size: 15px !important; color: #dc3545; margin: 0 !important;}
 /*
