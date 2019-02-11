@@ -85,15 +85,9 @@
     	outline: none !important; outline: unset !important;
     	color: #fff;
     }
-    .rsg-insta{
-    	color: #833AB4;
-    }
-    .rsg-fb{
-    	color: #3b5998;
-    }
-    .rsg-linkin{
-    	color: #0077B5;
-    }
+    .rsg-insta, .rsg-insta-hover:hover{ color: #833AB4; }
+    .rsg-fb, .rsg-fb-hover:hover{ color: #3b5998; }
+    .rsg-linkin, .rsg-linkin-hover:hover{ color: #0077B5; }
 
 /*
 ************************
@@ -310,6 +304,17 @@
 		overflow-x: hidden;
 		overflow-y: auto;
 		display: none;
+	}
+	.rsg-container-white-pure{
+		background-color: #fff;
+		padding: 20px;
+		position: relative;
+		color: #2b2b2b;
+	}
+	.rsg-container-white-pure h4{
+		color: #2b2b2b;
+		margin: 0 !important;
+		font-size: 15px !important;
 	}
 
 /*
