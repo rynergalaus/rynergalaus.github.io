@@ -76,8 +76,8 @@
     	color: #28a745;
     }
     .rsg-body a{
-    	transform: unset !important; transform: none !important;
-    	-webkit-transform: unset !important; -webkit-transform: none !important;
+    	text-decoration: unset !important; text-decoration: none !important;
+    	-webkit-text-decoration: unset !important; -webkit-text-decoration: none !important;
     	text-transform: unset !important; text-transform: none !important;
     	-webkit-text-transform: unset !important; -webkit-text-transform: none !important;
     	outline: none !important; outline: unset !important;
