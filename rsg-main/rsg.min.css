@@ -13,6 +13,7 @@
 	overflow-x: hidden;
 	max-width: 1920px;
 	margin: auto;
+	position: relative;
 }
 
 .rsg-body::-webkit-scrollbar {
@@ -64,17 +65,34 @@
     .rsg-strong_green,
     .rsg-strong_green_all strong { color: #28a745;  }
 
+    .rsg-strong_blue,
+    .rsg-strong_blue_all strong { color: #28a745;  }
 
+    .rsg-custom_link-blue-green{
+    	cursor: pointer;
+    	color: #007bff;
+    }
+    .rsg-custom_link-blue-green:hover{
+    	color: #28a745;
+    }
+    .rsg-body a{
+    	transform: unset !important; transform: none !important;
+    	-webkit-transform: unset !important; -webkit-transform: none !important;
+    	text-transform: unset !important; text-transform: none !important;
+    	-webkit-text-transform: unset !important; -webkit-text-transform: none !important;
+    	outline: none !important; outline: unset !important;
+    	color: #fff;
+    }
 /*
 ************************
 * R - TRANSITIONS
 ************************
 */  
-    .rsg-body a, .rsg-body a:hover{ transition: ease 2s; -webkit-transition: ease 2s; }
+    .rsg-body a, .rsg-body a:hover{ transition: ease 4s; -webkit-transition: ease 4s; }
     .rsg-transition_2_0, .rsg-transition_2_0:hover{ transition: ease 2s; -webkit-transition: ease 2s; }
     .rsg-transition_1_0, .rsg-transition_1_0:hover{ transition: ease 1s; -webkit-transition: ease 1s; }
     .rsg-transition_0_8, .rsg-transition_0_8:hover{ transition: ease 0.8s; -webkit-transition: ease 0.8s; }
-    .rsg-transition_0_4, .rsg-transition_0_4:hover{ transition: ease 0.4s; -webkit-transition: ease 0.4s; }
+    .rsg-transition_0_4, .rsg-transition_0_4:hover, .rsg-custom_link-blue-green, .rsg-custom_link-blue-green:hover{ transition: ease 0.4s; -webkit-transition: ease 0.4s; }
 
 /*
 ************************
@@ -103,7 +121,7 @@
     .rsg-padding_0_30{ padding: 0 30px; }
 
     .rsg-padding_5_0{ padding: 5px 0; }
-    	.rsg-padding_5_10{ padding: 5px 10px; }
+    .rsg-padding_5_10{ padding: 5px 10px; }
     .rsg-padding_10_0{ padding: 10px 0; }
     .rsg-padding_15_0{ padding: 15px 0; }
     .rsg-padding_20_0{ padding: 20px 0; }
@@ -265,6 +283,10 @@
 		font-size: 15px !important;
 	}
 
+	.rsg-my-contents{
+		display: block;
+		width: 100%;
+	}
 
 
 /*
