@@ -355,3 +355,17 @@
         transition: ease .4s; -webkit-transition: ease .4s;
         color: #dc3545;
     }
+
+    .rsg-tab-black-blue,
+    .rsg-tabs-white-blue .rsg-tab-title{
+        cursor: pointer;
+        display: inline-block;
+        transition: ease .4s; -webkit-transition: ease .4s;
+        color: #2b2b2b;
+    }
+    .rsg-tab-white-blue:hover,
+    .rsg-tabs-white-blue .rsg-tab-title:hover{
+        transition: ease .4s; -webkit-transition: ease .4s;
+        color: #0073aa;
+    }
+
