@@ -63,18 +63,20 @@
     }
 
     .rsg-strong_green,
-    .rsg-strong_green_all strong { color: #28a745;  }
+    .rsg-strong_green_all strong { color: #28a745; font-weight: 600;  }
 
     .rsg-strong_blue,
     .rsg-strong_blue_all strong { color: #28a745;  }
 
-    .rsg-custom_link-blue-green{
-        cursor: pointer;
-        color: #007bff;
-    }
-    .rsg-custom_link-blue-green:hover{
-        color: #28a745;
-    }
+    .rsg-custom_link-blue-green{ cursor: pointer !important; color: #007bff; text-decoration: none;}
+    .rsg-custom_link-blue-green:hover{ color: #28a745; }
+
+    .rsg-custom_link-white-green, .rsg-custom_link_all-white-green a{ cursor: pointer !important; color: #fff; text-decoration: none;}
+    .rsg-custom_link-white-green:hover, .rsg-custom_link_all-white-green a:hover{ color: #28a745; }
+
+    .rsg-custom_link-white-blue, .rsg-custom_link_all-white-blue a{ cursor: pointer !important; color: #fff; text-decoration: none;}
+    .rsg-custom_link-white-blue:hover, ..rsg-custom_link_all-white-blue a:hover{ color: #28a745; }
+
     .rsg-body a{
         text-decoration: unset !important; text-decoration: none !important;
         -webkit-text-decoration: unset !important; -webkit-text-decoration: none !important;
@@ -83,16 +85,20 @@
         outline: none !important; outline: unset !important;
         color: #fff;
     }
+
 /*
 ************************
 * R - TRANSITIONS
 ************************
 */  
-    .rsg-body a, .rsg-body a:hover{ transition: ease 4s; -webkit-transition: ease 4s; }
+    .rsg-body a, .rsg-body a:hover{ transition: ease 0.4s; -webkit-transition: ease 0.4s; }
     .rsg-transition_2_0, .rsg-transition_2_0:hover{ transition: ease 2s; -webkit-transition: ease 2s; }
     .rsg-transition_1_0, .rsg-transition_1_0:hover{ transition: ease 1s; -webkit-transition: ease 1s; }
     .rsg-transition_0_8, .rsg-transition_0_8:hover{ transition: ease 0.8s; -webkit-transition: ease 0.8s; }
-    .rsg-transition_0_4, .rsg-transition_0_4:hover, .rsg-custom_link-blue-green, .rsg-custom_link-blue-green:hover{ transition: ease 0.4s; -webkit-transition: ease 0.4s; }
+    .rsg-transition_0_4, .rsg-transition_0_4:hover, 
+    .rsg-custom_link-blue-green, .rsg-custom_link-blue-green:hover,
+    .rsg-custom_link-white-green, .rsg-custom_link-white-green:hover
+        { transition: ease 0.4s; -webkit-transition: ease 0.4s; }
 
 /*
 ************************
@@ -287,7 +293,15 @@
         display: block;
         width: 100%;
     }
-
+    .rsg-hidden-navigations{
+        position: fixed;
+        top: 0; bottom:0; right: 0; left: 0;
+        background-color: #2b2b2b;
+        width: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+        display: none;
+    }
 
 /*
 ************************
