@@ -986,7 +986,8 @@
           { "name":"Bornholm",
             "towns": [ { "0":"Bornholm","1":"Ertholmene"} ]
           }
-        ]
+        ],
+        "towns":""
       },
       { "name": "Region Sjælland",
         "provinces": [
@@ -996,7 +997,8 @@
           { "name":"Vest- og Sydsjælland",
             "towns": [{ "0" : "Faxe", "1" : "Guldborgsund", "2" : "Holbæk", "3" : "Kalundborg", "4" : "Lolland", "5" : "Næstved", "6" : "Odsherred", "7" : "Ringsted", "8" : "Slagelse", "9" : "Sorø", "10" : "Stevns", "11" : "Vordingborg"}]
           }
-        ]
+        ],
+        "towns":""
       },
       { "name": "Region Syddanmark",
         "provinces": [
@@ -1006,7 +1008,8 @@
           { "name":"Sydjylland",
             "towns": [{ "0" : "Billund", "1" : "Esbjerg", "2" : "Fanø", "3" : "Fredericia", "4" : "Haderslev", "5" : "Kolding", "6" : "Sønderborg", "7" : "Tønder", "8" : "Varde", "9" : "Vejen", "10" : "Vejle", "11" : "Aabenraa"}]
           }
-        ]
+        ],
+        "towns":""
       },
       { "name": "Region Midtjylland",
         "provinces": [
@@ -1016,14 +1019,16 @@
           { "name":"Østjylland",
             "towns": [{ "0" : "Favrskov", "1" : "Hedensted", "2" : "Horsens", "3" : "Norddjurs", "4" : "Odder", "5" : "Randers", "6" : "Samsø", "7" : "Silkeborg", "8" : "Skanderborg", "9" : "Syddjurs", "10" : "Aarhus"}]
           }
-        ]
+        ],
+        "towns":""
       },
       { "name": "Region Nordjylland",
         "provinces": [
           { "name":"Nordjylland",
             "towns": [{ "0" : "Brønderslev", "1" : "Frederikshavn", "2" : "Hjørring", "3" : "Jammerbugt", "4" : "Læsø", "5" : "Mariagerfjord", "6" : "Morsø", "7" : "Rebild", "8" : "Thisted", "9" : "Vesthimmerland", "10" : "Aalborg"}]
           }
-        ]
+        ],
+        "towns":""
       }
     ]
    },
