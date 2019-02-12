@@ -217,7 +217,7 @@
 
 /*
 ************************
-* R - FORM CONTENTS
+* R - FORMS CONTENTS
 ************************
 */
     .rsg-form{
@@ -238,6 +238,11 @@
     .rsg-form select{
         appearance:none;
         -webkit-appearance:none;
+    }
+
+    .rsg-form select option{
+        color: #2d2d2d;
+        font-size: 16px !important;
     }
 
 /*
@@ -343,7 +348,7 @@
     .rsg-container-dark-blue h4{
         color: #00a0d2;
         margin: 0 !important;
-        font-size: 15px !important;
+        font-size: 20px !important;
     }
 
     .rsg-container-white-orange{
