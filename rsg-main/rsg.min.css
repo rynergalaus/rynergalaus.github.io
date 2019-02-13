@@ -244,6 +244,20 @@
         color: #2d2d2d;
         font-size: 16px !important;
     }
+    .rsg-form-select-transparent-white{
+        background: transparent;
+        border: 0px solid #fff;
+        border-bottom: 2px solid #fff;
+        color: #fff;
+        box-shadow: unset !important;
+        outline: unset !important;
+        cursor: pointer;
+        transition: ease .4s; -webkit-transition: ease .4s;
+    }
+    .rsg-form-select-transparent-white:hover{
+        transition: ease .4s; -webkit-transition: ease .4s;
+        box-shadow: 0px 0px 10px -3px #fff !important;   
+    }
 
 /*
 ************************
