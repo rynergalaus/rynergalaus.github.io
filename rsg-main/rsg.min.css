@@ -330,7 +330,7 @@
 * R - MAIN CALLBACK FILE
 ************************
 */
-    .toplevel_page_rsg_addons_page{ background-color: #2d2d2d; color: #fff; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 13px; }
+    .toplevel_page_rsg_addons_page{ background-color: #2d2d2d !important; color: #fff !important; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 13px; }
     .toplevel_page_rsg_addons_page strong { color: #28a745;  }
     .toplevel_page_rsg_addons_page .notice,
     .toplevel_page_rsg_addons_page .gt-admin-notice{
