@@ -403,6 +403,15 @@
         background: #fff;
         border-color: #dd9933
     }
+.rsg-back-to-top strong{
+ position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 35px;
+}
 /*
 ************************
 * R - CONTAINERS
