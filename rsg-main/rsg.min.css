@@ -332,7 +332,7 @@
 ************************
 */  
     .rsg-addons_page_rsglta,
-    .rsg-addons_page_rsgcad{ background-color: #2d2d2d; color: #fff; font-weight: 300; }
+    .rsg-addons_page_rsgcad{ background-color: #2d2d2d !important; color: #fff !important; font-weight: 300; }
     .rsg-addons_page_rsgcad h4,
     .rsg-addons_page_rsglta h4{ font-size: 15px !important; color: #dc3545; margin: 0 !important;}
 /*
