@@ -315,6 +315,16 @@
         box-shadow: 0px 0px 10px -3px #fff !important;   
     }
 
+    .rsg-form_all_input_transparent_white input, .rsg-form_input_transparent_white{
+         background: none; background: unset;
+         color: #fff;
+         border:none; border:0;
+         border-bottom: 1px solid #888;
+         width: 100%;
+         padding: 5px;
+         outline:none; outline: unset;
+     }
+
 /*
 ************************
 * R - MAIN CALLBACK FILE
