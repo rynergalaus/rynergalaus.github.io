@@ -1111,7 +1111,68 @@
     "flag" :"https://dl.dropboxusercontent.com/s/nowqvou1mxrggmm/estonia.png?dl=0",
     "states": "",
     "prov":"",
-    "regions":""
+    "regions":[
+      { "name": "Harju County",
+        "provinces":"",
+        "towns": [{ "0" : "Anija Parish", "1" : "Harku Parish", "2" : "Jõelähtme Parish", "3" : "Keila City", "4" : "Kiili Parish", "5" : "Kose Parish", "6" : "Kuusalu Parish", "7" : "Loksa", "8" : "Lääne-Harju Parish", "9" : "Maardu", "10" : "Raasiku Parish", "11" : "Rae Parish", "12" : "Saku Parish", "13" : "Saue Parish", "14" : "Tallinn", "15" : "Viimsi Parish"}]
+      },
+      { "name": "Hiiu County",
+        "provinces":"",
+        "towns": [{"0":"Hiiumaa Parish"}]
+      },
+      { "name": "Ida-Viru County",
+        "provinces":"",
+        "towns": [{ "0" : "Alutaguse Parish", "1" : "Jõhvi Parish", "2" : "Kohtla-Järve", "3" : "Lüganuse Parish", "4" : "Narva", "5" : "Narva-Jõesuu", "6" : "Sillamäe", "7" : "Toila Parish"}]
+      },
+      { "name": "Jõgeva County",
+        "provinces":"",
+        "towns": [{ "0" : "Jõgeva Parish", "1" : "Mustvee Parish", "2" : "Põltsamaa Parish"}]
+      },
+      { "name": "Järva County",
+        "provinces":"",
+        "towns": [{ "0" : "Järva Parish", "1" : "Paide", "2" : "Türi Parish"}]
+      },
+      { "name": "Lääne County",
+        "provinces":"",
+        "towns": [{ "0" : "Haapsalu", "1" : "Lääne-Nigula Parish", "2" : "Vormsi Parish"}]
+      },
+      { "name": "Lääne-Viru County",
+        "provinces":"",
+        "towns": [{ "0" : "Haljala Parish", "1" : "Kadrina Parish", "2" : "Rakvere Parish", "3" : "Rakvere", "4" : "Tapa Parish", "5" : "Vinni Parish", "6" : "Viru-Nigula Parish", "7" : "Väike-Maarja Parish"}]
+      },
+      { "name": "Põlva County",
+        "provinces":"",
+        "towns": [{ "0" : "Kanepi Parish", "1" : "Põlva Parish", "2" : "Räpina Parish"}]
+      },
+      { "name": "Pärnu County",
+        "provinces":"",
+        "towns": [{ "0" : "Häädemeeste Parish", "1" : "Kihnu Parish", "2" : "Lääneranna Parish", "3" : "Põhja-Pärnumaa Parish", "4" : "Pärnu", "5" : "Saarde Parish", "6" : "Tori Parish"}]
+      },
+      { "name": "Rapla County",
+        "provinces":"",
+        "towns": [{ "0" : "Kehtna Parish", "1" : "Kohila Parish", "2" : "Märjamaa Parish", "3" : "Rapla Parish"}]
+      },
+      { "name": "Saare County",
+        "provinces":"",
+        "towns": [{ "0" : "Muhu Parish", "1" : "Ruhnu Parish", "2" : "Saaremaa Parish"}]
+      },
+      { "name": "Tartu County",
+        "provinces":"",
+        "towns": [{ "0" : "Elva Parish", "1" : "Kambja Parish", "2" : "Kastre Parish", "3" : "Luunja Parish", "4" : "Nõo Parish", "5" : "Peipsiääre Parish", "6" : "Tartu Parish", "7" : "Tartu"}]
+      },
+      { "name": "Valga County",
+        "provinces":"",
+        "towns": [{ "0" : "Otepää Parish", "1" : "Tõrva Parish", "2" : "Valga Parish"}]
+      },
+      { "name": "Viljandi County",
+        "provinces":"",
+        "towns": [{ "0" : "Mulgi Parish", "1" : "Põhja-Sakala Parish", "2" : "Viljandi Parish", "3" : "Viljandi"}]
+      },
+      { "name": "Võru County",
+        "provinces":"",
+        "towns": [{ "0" : "Antsla Parish", "1" : "Rõuge Parish", "2" : "Setomaa Parish", "3" : "Võru Parish", "4" : "Võru"}]
+      }
+    ]
    },
    {
     "name":"Ethiopia",
@@ -1252,7 +1313,80 @@
     "flag" :"https://dl.dropboxusercontent.com/s/j8iik6iwtygvlby/france.png?dl=0",
     "states": "",
     "prov":"",
-    "regions":""
+    "regions":[
+      { "name": "Auvergne-Rhône-Alpes",
+        "provinces":"",
+        "towns":[{ "0" : "Ain", "1" : "Allier", "2" : "Ardèche", "3" : "Cantal", "4" : "Drôme", "5" : "Haute-Loire", "6" : "Haute-Savoie", "7" : "Isère", "8" : "Loire", "9" : "Puy-de-Dôme", "10" : "Rhône", "11" : "Savoie"}]
+      },
+      { "name": "Bourgogne-Franche-Comté",
+        "provinces":"",
+        "towns":[{ "0" : "Côte-d'Or", "1" : "Doubs", "2" : "Haute-Saône", "3" : "Jura", "4" : "Nièvre", "5" : "Saône-et-Loire", "6" : "Territoire de Belfort", "7" : "Yonne"}]
+      },
+      { "name": "Brittany",
+        "provinces":"",
+        "towns":[{ "0" : "Côtes-d'Armor", "1" : "Finistère", "2" : "Ille-et-Vilaine", "3" : "Morbihan"}]
+      },
+      { "name": "Centre-Val de Loire",
+        "provinces":"",
+        "towns":[{ "0" : "Cher", "1" : "Eure-et-Loir", "2" : "Indre", "3" : "Indre-et-Loire", "4" : "Loir-et-Cher", "5" : "Loiret"}]
+      },
+      { "name": "Corsica",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "French Guiana",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Guadeloupe",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Grand Est",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Hauts-de-France",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Île-de-France",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Martinique",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Mayotte",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Nouvelle-Aquitaine",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Normandy",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Occitanie",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Pays de la Loire",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Provence-Alpes-Côte d'Azur",
+        "provinces":"",
+        "towns":""
+      },
+      { "name": "Réunion",
+        "provinces":"",
+        "towns":""
+      }
+    ]
    },
    {
     "name":"French Guiana",
@@ -1298,61 +1432,82 @@
     "states": [
       { 
         "name"  : "Baden-Württemberg",
+        "provinces":"",
         "towns": [{"0":"Baden-Baden","1":"Freiburg im Breisgau","2":"Heidelberg","3":"Heilbronn","4":"Karlsruhe","5":"Mannheim","6":"Pforzheim","7":"Stuttgart","8":"Ulm"}]
       },
       { 
         "name" : "Bavaria",
+        "provinces":"",
         "towns": [{"0":"Aichach","1":"Amberg","2":"Ansbach","3":"Aschaffenburg","4":"Augsburg","5":"Bad Kissingen","6":"Bamberg","7":"Bayreuth","8":"Coburg","9":"Dachau","10":"Deggendorf","11":"Erding","12":"Erlangen","13":"Forchheim","14":"Freising","15":"Friedberg","16":"Fürstenfeldbruck","17":"Fürth","18":"Garmisch-Partenkirchen","19":"Gauting","20":"Geretsried","21":"Germering","22":"Gersthofen","23":"Günzburg","24":"Haar","25":"Herzogenaurach","26":"Hof","27":"Ingolstadt","28":"Karlsfeld","29":"Kaufbeuren","30":"Kempten (Allgäu)","31":"Kitzingen","32":"Kulmbach","33":"Königsbrunn","34":"Landsberg am Lech","35":"Landshut","36":"Lauf an der Pegnitz","37":"Lichtenfels","38":"Lindau (Bodensee)","39":"Memmingen","40":"Munich","41":"Mühldorf am Inn","42":"Neu-Ulm","43":"Neuburg an der Donau","44":"Neufahrn bei Freising","45":"Neumarkt in der Oberpfalz","46":"Neusäß","47":"Nuremberg","48":"Nördlingen","49":"Olching","50":"Ottobrunn","51":"Passau","52":"Pfaffenhofen an der Ilm","53":"Puchheim","54":"Regensburg","55":"Rosenheim","56":"Roth","57":"Schwabach","58":"Schwandorf","59":"Schweinfurt","60":"Senden","61":"Sonthofen","62":"Starnberg","63":"Straubing","64":"Traunreut","65":"Traunstein","66":"Unterhaching","67":"Unterschleißheim","68":"Vaterstetten","69":"Waldkraiburg","70":"Weiden in der Oberpfalz","71":"Weilheim in Oberbayern","72":"Würzburg","73":"Zirndorf"}]
       },
       { 
-        "name" : "Berlin" 
+        "name" : "Berlin",
+        "provinces":"",
+        "towns": [{"0":"City of Berlin"}]
       },
       { 
         "name" : "Brandenburg",
+        "provinces":"",
         "towns": [{"0":"Bernau bei Berlin","1":"Blankenfelde-Mahlow","2":"Brandenburg an der Havel","3":"Cottbus","4":"Eberswalde","5":"Eisenhüttenstadt","6":"Falkensee","7":"Finsterwalde","8":"Forst (Lausitz)","9":"Frankfurt (Oder)","10":"Fürstenwalde","11":"Guben","12":"Hennigsdorf","13":"Hohen Neuendorf","14":"Hoppegarten","15":"Kleinmachnow","16":"Königs Wusterhausen","17":"Luckenwalde","18":"Ludwigsfelde","19":"Lübbenau","20":"Nauen","21":"Neuenhagen bei Berlin","22":"Neuruppin","23":"Oranienburg","24":"Panketal","25":"Petershagen-Eggersdorf","26":"Potsdam","27":"Prenzlau","28":"Rathenow","29":"Rüdersdorf bei Berlin","30":"Schwedt","31":"Senftenberg","32":"Spremberg","33":"Stahnsdorf","34":"Strausberg","35":"Teltow","36":"Templin","37":"Wandlitz","38":"Werder (Havel)","39":"Wittenberge","40":"Zossen"}]
       },
       { 
-        "name" : "Bremen" },
+        "name" : "Bremen",
+        "provinces":"",
+        "towns":[{"0":"City of Bremen"}]
+      },
       { 
-        "name" : "Hamburg" },
+        "name" : "Hamburg",
+        "provinces":"",
+        "towns":[{"0":"City of Hamburg"}]
+      },
       { 
         "name" : "Hesse",
+        "provinces":"",
         "towns": [ {"0":"Bad Hersfeld","1":"Bad Homburg vor der Höhe","2":"Bad Nauheim","3":"Bad Soden am Taunus","4":"Bad Vilbel","5":"Baunatal","6":"Bensheim","7":"Bruchköbel","8":"Butzbach","9":"Büdingen","10":"Darmstadt","11":"Dietzenbach","12":"Dillenburg","13":"Dreieich","14":"Eschborn","15":"Flörsheim am Main","16":"Frankfurt am Main","17":"Friedberg","18":"Friedrichsdorf","19":"Fulda","20":"Gelnhausen","21":"Giessen","22":"Griesheim","23":"Groß-Gerau","24":"Groß-Umstadt","25":"Hanau","26":"Hattersheim am Main","27":"Heppenheim","28":"Herborn","29":"Hofheim am Taunus","30":"Idstein","31":"Karben","32":"Kassel","33":"Kelkheim (Taunus)","34":"Korbach","35":"Lampertheim","36":"Langen","37":"Limburg an der Lahn","38":"Maintal","39":"Marburg","40":"Mörfelden-Walldorf","41":"Mühlheim am Main","42":"Neu-Isenburg","43":"Nidderau","44":"Obertshausen","45":"Oberursel (Taunus)","46":"Offenbach am Main","47":"Pfungstadt","48":"Riedstadt","49":"Rodgau","50":"Rödermark","51":"Rüsselsheim am Main","52":"Seligenstadt","53":"Stadtallendorf","54":"Taunusstein","55":"Viernheim","56":"Weiterstadt","57":"Wetzlar","58":"Wiesbaden"} ]
       },
       { 
         "name" : "Lower Saxony(Niedersachsen)",
+        "provinces":"",
         "towns": [{"0":"Achim","1":"Aurich","2":"Bad Zwischenahn","3":"Barsinghausen","4":"Bramsche","5":"Braunschweig","6":"Buchholz in der Nordheide","7":"Burgdorf","8":"Buxtehude","9":"Celle","10":"Cloppenburg","11":"Cuxhaven","12":"Delmenhorst","13":"Einbeck","14":"Emden","15":"Ganderkesee","16":"Garbsen","17":"Geestland","18":"Georgsmarienhütte","19":"Gifhorn","20":"Goslar","21":"Göttingen","22":"Hamelin","23":"Hanover","24":"Helmstedt","25":"Hildesheim","26":"Laatzen","27":"Langenhagen","28":"Leer (Ostfriesland)","29":"Lehrte","30":"Lingen (Ems)","31":"Lohne","32":"Lüneburg","33":"Melle","34":"Meppen","35":"Neustadt am Rübenberge","36":"Nienburg (Weser)","37":"Norden","38":"Nordenham","39":"Nordhorn","40":"Northeim","41":"Oldenburg","42":"Osnabrück","43":"Osterholz-Scharmbeck","44":"Papenburg","45":"Peine","46":"Rinteln","47":"Salzgitter","48":"Seelze","49":"Seevetal","50":"Springe","51":"Stade","52":"Stuhr","53":"Uelzen","54":"Vechta","55":"Verden an der Aller","56":"Wedemark","57":"Weyhe","58":"Wilhelmshaven","59":"Winsen (Luhe)","60":"Wolfenbüttel","61":"Wolfsburg","62":"Wunstorf"}]
       },
       { 
         "name" : "Mecklenburg-Vorpommern",
+        "provinces":"",
         "towns":[{ "0" : "Altentreptow","1" : "Anklam","2" : "Bad Doberan","3" : "Bad Sülze","4" : "Barth","5" : "Bergen auf Rügen","6" : "Boizenburg/Elbe","7" : "Brüel","8" : "Burg Stargard","9" : "Bützow","10" : "Crivitz","11" : "Dargun","12" : "Dassow","13" : "Demmin","14" : "Dömitz","15" : "Eggesin","16" : "Franzburg","17" : "Friedland","18" : "Gadebusch","19" : "Garz/Rügen","20" : "Gnoien","21" : "Goldberg","22" : "Grabow","23" : "Greifswald","24" : "Grevesmühlen","25" : "Grimmen","26" : "Güstrow","27" : "Gützkow","28" : "Hagenow","29" : "Jarmen","30" : "Klütz","31" : "Krakow am See","32" : "Kröpelin","33" : "Kühlungsborn","34" : "Laage","35" : "Lassan","36" : "Loitz","37" : "Lübtheen","38" : "Lübz","39" : "Ludwigslust","40" : "Malchin","41" : "Malchow","42" : "Marlow","43" : "Mirow","44" : "Neubrandenburg","45" : "Neubukow","46" : "Neukalen","47" : "Neukloster","48" : "Neustadt-Glewe","49" : "Neustrelitz","50" : "Parchim","51" : "Pasewalk","52" : "Penkun","53" : "Penzlin","54" : "Plau am See","55" : "Putbus","56" : "Rehna","57" : "Rerik","58" : "Ribnitz-Damgarten","59" : "Richtenberg","60" : "Röbel/Müritz","61" : "Rostock","62" : "Sassnitz","63" : "Schönberg","64" : "Schwaan","65" : "Schwerin","66" : "Stavenhagen","67" : "Sternberg","68" : "Stralsund","69" : "Strasburg (Uckermark)","70" : "Tessin","71" : "Teterow","72" : "Torgelow","73" : "Tribsees","74" : "Ueckermünde","75" : "Usedom","76" : "Waren (Müritz)","77" : "Warin","78" : "Wesenberg","79" : "Wismar","80" : "Wittenburg","81" : "Woldegk","82" : "Wolgast","83" : "Zarrentin am Schaalsee" }]
       },
       { 
         "name" : "North Rhine-Westphalia",
+        "provinces":"",
         "towns": [{"0":"Cologne","1":"Düsseldorf","2":"Dortmund","3":"Essen","4":"Duisburg","5":"Bochum","6":"Wuppertal","7":"Bielefeld","8":"Bonn","9":"Münster","10":"Mönchengladbach","11":"Gelsenkirchen","12":"Aachen","13":"Krefeld","14":"Oberhausen","15":"Hagen","16":"Hamm","17":"Mülheim an der Ruhr","18":"Leverkusen","19":"Solingen","20":"Herne","21":"Neuss","22":"Paderborn","23":"Bottrop","24":"Recklinghausen","25":"Bergisch Gladbach","26":"Remscheid","27":"Moers","28":"Siegen","29":"Gütersloh","30":"Witten","31":"Iserlohn","32":"Düren","33":"Ratingen","34":"Lünen","35":"Marl","36":"Velbert","37":"Minden","38":"Viersen","39":"Rheine","40":"Gladbeck","41":"Dorsten","42":"Troisdorf","43":"Detmold","44":"Castrop-Rauxel","45":"Arnsberg","46":"Lüdenscheid","47":"Bocholt","48":"Lippstadt","49":"Dinslaken","50":"Herford","51":"Kerpen","52":"Dormagen","53":"Grevenbroich","54":"Herten","55":"Bergheim","56":"Wesel","57":"Hürth","58":"Langenfeld, Rhineland","59":"Euskirchen","60":"Unna","61":"Stolberg, Rhineland","62":"Eschweiler","63":"Sankt Augustin","64":"Hilden","65":"Meerbusch","66":"Hattingen","67":"Pulheim","68":"Bad Salzuflen","69":"Menden, Sauerland","70":"Ahlen","71":"Frechen","72":"Ibbenbüren","73":"Kleve","74":"Willich","75":"Gummersbach"}]
       },
       { 
         "name" : "Rhineland-Palatinate",
+        "provinces":"",
         "towns": [{"0":"Alzey","1":"Andernach","2":"Bad Dürkheim","3":"Bad Kreuznach","4":"Bad Neuenahr-Ahrweiler","5":"Bendorf","6":"Betzdorf","7":"Bingen am Rhein","8":"Bitburg","9":"Bobenheim-Roxheim","10":"Boppard","11":"Böhl-Iggelheim","12":"Diez","13":"Frankenthal (Pfalz)","14":"Germersheim","15":"Grafschaft, Rhineland","16":"Grünstadt","17":"Herxheim bei Landau/Pfalz","18":"Ingelheim am Rhein","19":"Kaiserslautern","20":"Koblenz","21":"Konz","22":"Lahnstein","23":"Landau in der Pfalz","24":"Limburgerhof","25":"Ludwigshafen am Rhein","26":"Mainz","27":"Mayen","28":"Montabaur","29":"Morbach","30":"Mutterstadt","31":"Mülheim-Kärlich","32":"Neustadt an der Weinstraße","33":"Neuwied","34":"Pirmasens","35":"Remagen","36":"Schifferstadt","37":"Sinzig","38":"Speyer","39":"Trier","40":"Wittlich","41":"Worms","42":"Wörth am Rhein","43":"Zweibrücken"}]
       },
       { 
         "name" : "Saarland",
+        "provinces":"",
         "towns": [{"0":"Beckingen","1":"Bexbach","2":"Blieskastel","3":"Dillingen, Saarland","4":"Eppelborn","5":"Friedrichsthal","6":"Heusweiler","7":"Homburg (Saar)","8":"Illingen","9":"Kirkel","10":"Kleinblittersdorf","11":"Lebach","12":"Losheim am See","13":"Mandelbachtal","14":"Marpingen","15":"Merzig","16":"Mettlach","17":"Neunkirchen, Saarland","18":"Ottweiler","19":"Püttlingen","20":"Quierschied","21":"Rehlingen-Siersburg","22":"Riegelsberg","23":"Saarbrücken","24":"Saarlouis","25":"Saarwellingen","26":"Sankt Ingbert","27":"Sankt Wendel","28":"Schiffweiler","29":"Schmelz","30":"Schwalbach, Saarland","31":"Spiesen-Elversberg","32":"Sulzbach/Saar","33":"Tholey","34":"Völklingen","35":"Wadern","36":"Wadgassen","37":"Überherrn"}]
       },
       { 
         "name" : "Saxony",
+        "provinces":"",
         "towns": [{"0":"Annaberg-Buchholz","1":"Aue","2":"Auerbach (Vogtland)","3":"Bautzen","4":"Borna","5":"Chemnitz","6":"Coswig","7":"Crimmitschau","8":"Delitzsch","9":"Dresden","10":"Döbeln","11":"Eilenburg","12":"Freiberg","13":"Freital","14":"Glauchau","15":"Grimma","16":"Großenhain","17":"Görlitz","18":"Heidenau","19":"Hoyerswerda","20":"Leipzig","21":"Limbach-Oberfrohna","22":"Marienberg","23":"Markkleeberg","24":"Markranstädt","25":"Meissen","26":"Pirna","27":"Plauen","28":"Radeberg","29":"Radebeul","30":"Reichenbach im Vogtland","31":"Riesa","32":"Schkeuditz","33":"Schwarzenberg","34":"Taucha","35":"Torgau","36":"Weißwasser","37":"Werdau","38":"Wurzen","39":"Zittau","40":"Zwickau"}]
       },
       { 
         "name" : "Saxony-Anhalt",
+        "provinces":"",
         "towns": [{"0":"Aschersleben","1":"Bad Dürrenberg","2":"Bernburg (Saale)","3":"Bitterfeld-Wolfen","4":"Blankenburg","5":"Braunsbedra","6":"Burg","7":"Coswig (Anhalt)","8":"Dessau-Roßlau","9":"Eisleben","10":"Gardelegen","11":"Genthin","12":"Gommern","13":"Gräfenhainichen","14":"Halberstadt","15":"Haldensleben","16":"Halle (Saale)","17":"Hettstedt","18":"Hohe Börde","19":"Jessen (Elster)","20":"Klötze","21":"Köthen (Anhalt)","22":"Landsberg","23":"Leuna","24":"Magdeburg","25":"Merseburg","26":"Muldestausee","27":"Möckern","28":"Naumburg (Saale)","29":"Oberharz am Brocken","30":"Oebisfelde-Weferlingen","31":"Oschersleben (Bode)","32":"Osterwieck","33":"Quedlinburg","34":"Querfurt","35":"Salzatal","36":"Salzwedel","37":"Sandersdorf-Brehna","38":"Sangerhausen","39":"Schkopau","40":"Schönebeck (Elbe)","41":"Staßfurt","42":"Stendal","43":"Südliches Anhalt","44":"Tangerhütte","45":"Tangermünde","46":"Teutschenthal","47":"Thale","48":"Wanzleben-Börde","49":"Weißenfels","50":"Wernigerode","51":"Wittenberg","52":"Wolmirstedt","53":"Zeitz","54":"Zerbst"}]
       },
       { 
         "name" : "Schleswig-Holstein",
+        "provinces":"",
         "towns": [{"0":"Ahrensburg","1":"Bad Oldesloe","2":"Bad Schwartau","3":"Bad Segeberg","4":"Bargteheide","5":"Eckernförde","6":"Elmshorn","7":"Eutin","8":"Flensburg","9":"Geesthacht","10":"Glinde","11":"Halstenbek","12":"Heide","13":"Henstedt-Ulzburg","14":"Husum","15":"Itzehoe","16":"Kaltenkirchen","17":"Kiel","18":"Lübeck","19":"Mölln","20":"Neumünster","21":"Neustadt in Holstein","22":"Norderstedt","23":"Pinneberg","24":"Preetz","25":"Quickborn","26":"Ratekau","27":"Reinbek","28":"Rendsburg","29":"Schenefeld","30":"Schleswig","31":"Schwarzenbek","32":"Stockelsdorf","33":"Uetersen","34":"Wedel"}]
       },
       { 
         "name" : "Thuringia",
+        "provinces":"",
         "towns": [{"0":"Altenburg","1":"Apolda","2":"Arnstadt","3":"Bad Langensalza","4":"Bad Salzungen","5":"Eisenach","6":"Eisenberg","7":"Erfurt","8":"Gera","9":"Gotha","10":"Greiz","11":"Heilbad Heiligenstadt","12":"Hildburghausen","13":"Ilmenau","14":"Jena","15":"Leinefelde-Worbis","16":"Meiningen","17":"Meuselwitz","18":"Mühlhausen/Thüringen","19":"Nordhausen","20":"Pößneck","21":"Rudolstadt","22":"Saalfeld/Saale","23":"Schmalkalden","24":"Schmölln","25":"Sondershausen","26":"Sonneberg","27":"Suhl","28":"Sömmerda","29":"Waltershausen","30":"Weimar","31":"Zella-Mehlis","32":"Zeulenroda-Triebes"}]
       }
     ],
@@ -2130,254 +2285,336 @@
     "pcode":"+63",
     "flag":"https://dl.dropboxusercontent.com/s/c11oqssl084pqa8/philippines.png?dl=0",
     "states": "",
-    "regions":"",
-    "prov":[ 
-      { "name":"Abra",
-        "towns":[ { "0": "Bangued", "1": "Boliney", "2": "Bucay", "3": "Bucloc", "4": "Daguioman", "5": "Danglas", "6": "Dolores", "7": "La Paz", "8": "Lacub", "9": "Lagangilang", "10": "Lagayan", "11": "Langiden", "12": "Licuan-Baay", "13": "Luba", "14": "Malibcong", "15": "Manabo", "16": "Peñarrubia", "17": "Pidigan", "18": "Pilar", "19": "Sallapadan", "20": "San Isidro", "21": "San Juan", "22": "San Quintin", "23": "Tayum", "24": "Tineg", "25": "Tubo", "26": "Villaviciosa"} ]
+    "prov":"",
+    "regions":[
+      { "name": "Cordillera Administrative Region",
+        "provinces": [
+          { "name":"Abra",
+            "towns": [ { "0": "Bangued", "1": "Boliney", "2": "Bucay", "3": "Bucloc", "4": "Daguioman", "5": "Danglas", "6": "Dolores", "7": "La Paz", "8": "Lacub", "9": "Lagangilang", "10": "Lagayan", "11": "Langiden", "12": "Licuan-Baay", "13": "Luba", "14": "Malibcong", "15": "Manabo", "16": "Peñarrubia", "17": "Pidigan", "18": "Pilar", "19": "Sallapadan", "20": "San Isidro", "21": "San Juan", "22": "San Quintin", "23": "Tayum", "24": "Tineg", "25": "Tubo", "26": "Villaviciosa"} ]
+          },
+          { "name":"Apayao",
+            "towns": [ { "0": "Calanasan", "1": "Conner", "2": "Flora", "3": "Kabugao", "4": "Luna", "5": "Pudtol", "6": "Santa Marcela" } ]
+          },
+          { "name":"Benguet",
+            "towns": [ { "0": "Atok", "1": "Baguio City", "2": "Bakun", "3": "Bokod", "4": "Buguias", "5": "Itogon", "6": "Kabayan", "7": "Kapangan", "8": "Kibungan", "9": "La Trinidad", "10": "Mankayan", "11": "Sablan", "12": "Tuba", "13": "Tublay" } ]
+          },
+          { "name":"Ifugao",
+            "towns": [ { "0": "Aguinaldo", "1": "Alfonso Lista", "2": "Asipulo", "3": "Banaue", "4": "Hingyon", "5": "Hungduan", "6": "Kiangan", "7": "Lagawe", "8": "Lamut", "9": "Mayoyao", "10": "Tinoc"} ]
+          },
+          { "name":"Kalinga",
+            "towns": [ {"0": "Balbalan", "1": "Lubuagan", "2": "Pasil", "3": "Pinukpuk", "4": "Rizal", "5": "Tabuk", "6": "Tanudan", "7": "Tinglayan"}]
+          },
+          { "name":"Mountain Province",
+            "towns": [ { "0": "Barlig", "1": "Bauko", "2": "Besao", "3": "Bontoc", "4": "Natonin", "5": "Paracelis", "6": "Sabangan", "7": "Sadanga", "8": "Sagada", "9": "Tadian"} ]
+          }
+        ],
+        "towns":""
       },
-      { "name":"Agusan del Norte",
-        "towns":[ { "0": "Buenavista", "1": "Butuan", "2": "Cabadbaran", "3": "Carmen", "4": "Jabonga", "5": "Kitcharao", "6": "Las Nieves", "7": "Magallanes", "8": "Nasipit", "9": "Remedios T Romualdez", "10": "Santiago", "11": "Tubay" } ]
-      } ,
-      { "name":"Agusan del Sur",
-          "towns":[ { "0": "Bayugan", "1": "Bunawan", "2": "Esperanza", "3": "La Paz", "4": "Loreto", "5": "Prosperidad", "6": "Rosario", "7": "San Francisco", "8": "San Luis", "9": "Santa Josefa", "10": "Sibagat", "11": "Talacogon", "12": "Trento", "13": "Veruela" } ]
-      } ,
-      { "name":"Aklan",
-          "towns":[ { "0": "Altavas", "1": "Balete", "2": "Banga", "3": "Batan", "4": "Buruanga", "5": "Ibajay", "6": "Kalibo", "7": "Lezo", "8": "Libacao", "9": "Madalag", "10": "Makato", "11": "Malay", "12": "Malinao", "13": "Nabas", "14": "New Washington", "15": "Numancia", "16": "Tangalan" } ]
-      } ,
-      { "name":"Albay",
-          "towns":[ { "0": "Bacacay", "1": "Camalig", "2": "Daraga", "3": "Guinobatan", "4": "Jovellar", "5": "Legazpi", "6": "Libon", "7": "Ligao", "8": "Malilipot", "9": "Malinao", "10": "Manito", "11": "Oas", "12": "Pio Duran", "13": "Polangui", "14": "Rapu-Rapu", "15": "Santo Domingo", "16": "Tabaco", "17": "Tiwi" } ]
-      } ,
-      { "name":"Antique",
-          "towns":[ { "0": "Anini-y", "1": "Barbaza", "2": "Belison", "3": "Bugasong", "4": "Caluya", "5": "Culasi", "6": "Hamtic", "7": "Laua-an", "8": "Libertad", "9": "Pandan", "10": "Patnongon", "11": "San Jose de Buenavista", "12": "San Remigio", "13": "Sebaste", "14": "Sibalom", "15": "Tibiao", "16": "Tobias Fornier", "17": "Valderrama" } ]
-      } ,
-      { "name":"Apayao",
-          "towns":[ { "0": "Calanasan", "1": "Conner", "2": "Flora", "3": "Kabugao", "4": "Luna", "5": "Pudtol", "6": "Santa Marcela" } ]
-      } ,
-      { "name":"Aurora",
-          "towns":[ { "0": "Baler", "1": "Casiguran", "2": "Dilasag", "3": "Dinalungan", "4": "Dingalan", "5": "Dipaculao" } ]
-      } ,
-      { "name":"Basilan",
-          "towns":[ { "0": "Akbar", "1": "Al-Barka", "2": "Hadji Mohammad Ajul", "3": "Hadji Muhtamad", "4": "Isabela City", "5": "Lamitan", "6": "Lantawan", "7": "Maluso", "8": "Sumisip", "9": "Tabuan-Lasa", "10": "Tipo-Tipo", "11": "Tuburan", "12": "Ungkaya Pukan" } ]
-      }  ,
-      { "name":"Bataan",
-          "towns":[ { "0": "Abucay", "1": "Bagac", "2": "Balanga", "3": "Dinalupihan", "4": "Hermosa", "5": "Limay", "6": "Mariveles", "7": "Morong", "8": "Orani", "9": "Orion", "10": "Pilar", "11": "Samal" } ]
-      } ,
-      { "name":"Batanes",
-          "towns":[ { "0": "Basco", "1": "Itbayat", "2": "Ivana", "3": "Mahatao", "4": "Sabtang", "5": "Uyugan" } ]
-      } ,
-      { "name":"Batangas",
-          "towns":[ { "0": "Agoncillo", "1": "Alitagtag", "2": "Balayan", "3": "Balete", "4": "Batangas City", "5": "Bauan", "6": "Calaca", "7": "Calatagan", "8": "Cuenca", "9": "Ibaan", "10": "Laurel", "11": "Lemery", "12": "Lian", "13": "Lipa", "14": "Lobo", "15": "Mabini", "16": "Malvar", "17": "Mataasnakahoy", "18": "Nasugbu", "19": "Padre Garcia", "20": "Rosario", "21": "San Jose", "22": "San Juan", "23": "San Luis", "24": "San Nicolas", "25": "San Pascual", "26": "Santa Teresita", "27": "Santo Tomas", "28": "Taal", "29": "Talisay", "30": "Tanauan", "31": "Taysan", "32": "Tingloy", "33": "Tuy" } ]
-      } ,
-      {  "name":"Benguet",
-          "towns":[ { "0": "Atok", "1": "Baguio", "2": "Bakun", "3": "Bokod", "4": "Buguias", "5": "Itogon", "6": "Kabayan", "7": "Kapangan", "8": "Kibungan", "9": "La Trinidad", "10": "Mankayan", "11": "Sablan", "12": "Tuba", "13": "Tublay" } ]
-      } ,
-      { "name":"Biliran",
-          "towns":[ { "0": "Almeria", "1": "Biliran", "2": "Cabucgayan", "3": "Caibiran", "4": "Culaba", "5": "Kawayan", "6": "Maripipi", "7": "Naval" } ]
-      } ,
-      { "name":"Bohol",
-          "towns":[ { "0": "Alburquerque", "1": "Antequera", "2": "Baclayon", "3": "Balilihan", "4": "Calape", "5": "Catigbian", "6": "Corella", "7": "Cortes", "8": "Dauis", "9": "Loon", "10": "Maribojoc", "11": "Panglao", "12": "Sikatuna", "13": "Tagbilaran", "14": "Tubigon", "15": "Bien Unido", "16": "Buenavista", "17": "Clarin", "18": "Dagohoy", "19": "Danao", "20": "Getafe", "21": "Inabanga", "22": "President Carlos P. Garcia", "23": "Sagbayan", "24": "San Isidro", "25": "San Miguel", "26": "Talibon", "27": "Trinidad", "28": "Ubay", "29": "Alicia", "30": "Anda", "31": "Batuan", "32": "Bilar", "33": "Candijay", "34": "Carmen", "35": "Dimiao", "36": "Duero", "37": "Garcia Hernandez", "38": "Guindulman", "39": "Jagna", "40": "Sevilla", "41": "Lila", "42": "Loay", "43": "Loboc", "44": "Mabini", "45": "Pilar", "46": "Sierra Bullones", "47": "Valencia" } ]
+      { "name": "Autonomous Region in Muslim Mindanao",
+        "provinces": [
+          { "name":"Basilan",
+            "towns": [ { "0": "Akbar", "1": "Al-Barka", "2": "Hadji Mohammad Ajul", "3": "Hadji Muhtamad", "4": "Isabela City", "5": "Lamitan", "6": "Lantawan", "7": "Maluso", "8": "Sumisip", "9": "Tabuan-Lasa", "10": "Tipo-Tipo", "11": "Tuburan", "12": "Ungkaya Pukan" } ]
+          },
+          { "name":"Lanao Del Sur",
+            "towns": [ { "0": "Amai Manabilang (Bumbaran)", "1": "Bacolod-Kalawi (Bacolod-Grande)", "2": "Balabagan", "3": "Balindong (Watu)", "4": "Bayang", "5": "Binidayan", "6": "Buadiposo-Buntong", "7": "Bubong", "8": "Butig", "9": "Calanogas", "10": "Ditsaan-Ramain", "11": "Ganassi", "12": "Kapai", "13": "Kapatagan", "14": "Lumba-Bayabao (Maguing)", "15": "Lumbaca-Unayan", "16": "Lumbatan", "17": "Lumbayanague", "18": "Madalum", "19": "Madamba", "20": "Maguing", "21": "Malabang", "22": "Marantao", "23": "Marawi", "24": "Marogong", "25": "Masiu", "26": "Mulondo", "27": "Pagayawan (Tatarikan)", "28": "Piagapo", "29": "Picong (Sultan Gumander)", "30": "Poona Bayabao (Gata)", "31": "Pualas", "32": "Saguiaran", "33": "Sultan Dumalondong", "34": "Tagoloan II", "35": "Tamparan", "36": "Taraka", "37": "Tubaran", "38": "Tugaya", "39": "Wao"} ]
+          },
+          { "name":"Maguindanao",
+            "towns": [{ "0" : "Barira", "1" : "Buldon", "2" : "Datu Anggal Midtimbang", "3" : "Datu Blah T Sinsuat", "4" : "Datu Odin Sinsuat", "5" : "Kabuntalan", "6" : "Matanog", "7" : "Northern Kabuntalan", "8" : "Parang", "9" : "Sultan Kudarat", "10" : "Sultan Mastura", "11" : "Sultan Sumagka", "12" : "Upi"}]
+          },
+          { "name":"Sulu",
+            "towns": [ { "0": "Banguingui", "1": "Hadji Panglima Tahil", "2": "Indanan", "3": "Jolo", "4": "Kalingalan Caluang", "5": "Lugus", "6": "Luuk", "7": "Maimbung", "8": "Old Panamao", "9": "Omar", "10": "Pandami", "11": "Panglima Estino", "12": "Pangutaran", "13": "Parang", "14": "Pata", "15": "Patikul", "16": "Siasi", "17": "Talipao", "18": "Tapul" } ]
+          },
+          { "name":"Tawi-Tawi",
+            "towns": [ { "0": "Bongao", "1": "Languyan", "2": "Mapun", "3": "Panglima Sugala[ii]", "4": "Sapa-Sapa", "5": "Sibutu", "6": "Simunul", "7": "Sitangkai", "8": "South Ubian", "9": "Tandubas", "10": "Turtle Islands" } ]
+          }
+        ],
+        "towns":""
       },
-      { "name":"Bukidnon",
-          "towns":[ { "0": "Baungon", "1": "Cabanglasan", "2": "Damulog", "3": "Dangcagan", "4": "Don Carlos", "5": "Impasugong", "6": "Kadingilan", "7": "Kalilangan", "8": "Kibawe", "9": "Kitaotao", "10": "Lantapan", "11": "Libona", "12": "Malaybalay", "13": "Malitbog", "14": "Manolo Fortich", "15": "Maramag", "16": "Pangantucan", "17": "Quezon", "18": "San Fernando", "19": "Sumilao", "20": "Talakag", "21": "Valencia", "22": "AMA Computer Learning Center", "23": "Bukidnon State University", "24": "Central Mindanao University", "25": "", "26": "", "27": "", "28": "", "29": "Mountain View College", "30": "", "31": "", "32": "", "33": "", "34": "San Agustin Institute of Technology", "35": "", "36": "STI Learning Center", "37": "", "38": "Valencia Colleges (Bukidnon), Inc" } ]
+      { "name": "National Capital Region",
+        "provinces": "",
+        "towns":[{ "0" : "Caloocan City", "1" : "Las Piñas City", "2" : "Makati City", "3" : "Malabon City", "4" : "Mandaluyong City", "5" : "Manila City", "6" : "Marikina City", "7" : "Muntinlupa City", "8" : "Navotas City", "9" : "Parañaque City", "10" : "Pasay City", "11" : "Pasig City", "12" : "Quezon City", "13" : "San Juan City", "14" : "Taguig City", "15" : "Valenzuela City"}]
       },
-      { "name":"Bulacan",
-          "towns":[ { "0": "Angat", "1": "Balagtas", "2": "Baliuag", "3": "Bocaue", "4": "Bulakan", "5": "Bustos", "6": "Calumpit", "7": "Doña Remedios Trinidad", "8": "Guiguinto", "9": "Hagonoy", "10": "Malolos", "11": "Marilao", "12": "Meycauayan", "13": "Norzagaray", "14": "Obando", "15": "Pandi", "16": "Paombong", "17": "Plaridel", "18": "Pulilan", "19": "San Ildefonso", "20": "San Jose del Monte", "21": "San Miguel", "22": "San Rafael", "23": "Santa Maria" } ]
+      { "name": "Region 1 (Ilocos Region)",
+        "provinces": [
+          { "name":"Ilocos Norte",
+            "towns": [ {"0": "Adams", "1": "Bacarra", "2": "Badoc", "3": "Bangui", "4": "Banna", "5": "Batac", "6": "Burgos", "7": "Carasi", "8": "Currimao", "9": "Dingras", "10": "Dumalneg", "11": "Laoag", "12": "Marcos", "13": "Nueva Era", "14": "Pagudpud", "15": "Paoay", "16": "Pasuquin", "17": "Piddig", "18": "Pinili", "19": "San Nicolas", "20": "Sarrat", "21": "Solsona", "22": "Vintar"}]
+          },
+          { "name":"Ilocos Sur",
+            "towns": [ {"0": "Alilem", "1": "Banayoyo", "2": "Bantay", "3": "Burgos", "4": "Cabugao", "5": "Candon", "6": "Caoayan", "7": "Cervantes", "8": "Galimuyod", "9": "Gregorio del Pilar", "10": "Lidlidda", "11": "Magsingal", "12": "Nagbukel", "13": "Narvacan", "14": "Quirino", "15": "Salcedo", "16": "San Emilio", "17": "San Esteban", "18": "San Ildefonso", "19": "San Juan", "20": "San Vicente", "21": "Santa", "22": "Santa Catalina", "23": "Santa Cruz", "24": "Santa Lucia", "25": "Santa Maria", "26": "Santiago", "27": "Santo Domingo", "28": "Sigay", "29": "Sinait", "30": "Sugpon", "31": "Suyo", "32": "Tagudin", "33": "Vigan"}]
+          },
+          { "name":"La Union",
+            "towns": [ {"0": "Agoo", "1": "Aringay", "2": "Bacnotan", "3": "Bagulin", "4": "Balaoan", "5": "Bangar", "6": "Bauang", "7": "Burgos", "8": "Caba", "9": "Luna", "10": "Naguilian", "11": "Pugo", "12": "Rosario", "13": "San Fernando", "14": "San Gabriel", "15": "San Juan", "16": "Santo Tomas", "17": "Santol", "18": "Sudipen", "19": "Tubao"}]
+          },
+          { "name":"Pangasinan",
+            "towns": [ { "0": "Alaminos", "1": "Dagupan", "2": "San Carlos", "3": "Urdaneta", "4": "Agno", "5": "Aguilar", "6": "Alcala", "7": "Anda", "8": "Asingan", "9": "Balungao", "10": "Bani", "11": "Basista", "12": "Bautista", "13": "Bayambang", "14": "Binalonan", "15": "Binmaley", "16": "Bolinao", "17": "Bugallon", "18": "Burgos", "19": "Calasiao", "20": "Dasol", "21": "Infanta", "22": "Labrador", "23": "Laoac", "24": "Lingayen", "25": "Mabini", "26": "Malasiqui", "27": "Manaoag", "28": "Mangaldan", "29": "Mangatarem", "30": "Mapandan", "31": "Natividad", "32": "Pozorrubio", "33": "Rosales", "34": "San Fabian", "35": "San Jacinto", "36": "San Manuel", "37": "San Nicolas", "38": "San Quintin", "39": "Santa Barbara", "40": "Santa Maria", "41": "Santo Tomas", "42": "Sison", "43": "Sual", "44": "Tayug", "45": "Umingan", "46": "Urbiztondo", "47": "Villasis" } ]
+          }
+        ],
+        "towns": ""
       },
-      { "name":"Cagayan",
-          "towns":[ { "0": "Abulug", "1": "Alcala", "2": "Allacapan", "3": "Amulung", "4": "Aparri", "5": "Baggao", "6": "Ballesteros", "7": "Buguey", "8": "Calayan", "9": "Camalaniugan", "10": "Claveria", "11": "Enrile", "12": "Gattaran", "13": "Gonzaga", "14": "Iguig", "15": "Lal-lo", "16": "Lasam", "17": "Pamplona", "18": "Peñablanca", "19": "Piat", "20": "Rizal", "21": "Sanchez-Mira", "22": "Santa Ana", "23": "Santa Praxedes", "24": "Santa Teresita", "25": "Santo Niño (Faire)", "26": "Solana", "27": "Tuao", "28": "Tuguegarao City" } ]
-      } ,
-      { "name":"Camarines Norte",
-          "towns":[ { "0": "Basud", "1": "Capalonga", "2": "Daet", "3": "Jose Panganiban", "4": "Labo", "5": "Mercedes", "6": "Paracale", "7": "San Lorenzo Ruiz", "8": "San Vicente", "9": "Santa Elena", "10": "Talisay", "11": "Vinzons" } ]
-      } ,
-      { "name":"Camarines Sur",
-          "towns":[ { "0": "Baao", "1": "Balatan", "2": "Bato", "3": "Bombon", "4": "Buhi", "5": "Bula", "6": "Cabusao", "7": "Calabanga", "8": "Camaligan", "9": "Canaman", "10": "Caramoan", "11": "Del Gallego", "12": "Gainza", "13": "Garchitorena", "14": "Goa", "15": "Iriga", "16": "Lagonoy", "17": "Libmanan", "18": "Lupi", "19": "Magarao", "20": "Milaor", "21": "Minalabac", "22": "Nabua", "23": "Naga", "24": "Ocampo", "25": "Pamplona", "26": "Pasacao", "27": "Pili", "28": "Presentacion", "29": "Ragay", "30": "Sagñay", "31": "San Fernando", "32": "San Jose", "33": "Sipocot", "34": "Siruma", "35": "Tigaon", "36": "Tinambac" } ]
-      } ,
-      { "name":"Camiguin",
-          "towns":[ { "0": "Catarman", "1": "Guinsiliban", "2": "Mahinog", "3": "Mambajao", "4": "Sagay" } ]
-      } ,
-      { "name":"Capiz",
-          "towns":[ { "0": "Cuartero", "1": "Dao", "2": "Dumalag", "3": "Dumarao", "4": "Ivisan", "5": "Jamindan", "6": "Maayon", "7": "Mambusao", "8": "Panay", "9": "Panitan", "10": "Pilar", "11": "Pontevedra", "12": "President Roxas", "13": "Roxas City", "14": "Sapian", "15": "Sigma", "16": "Tapaz" } ]
-      } ,
-      { "name":"Catanduanes",
-          "towns":[ { "0": "Bagamanoc", "1": "Baras", "2": "Bato", "3": "Caramoran", "4": "Gigmoto", "5": "Pandan", "6": "Panganiban", "7": "San Andres", "8": "San Miguel", "9": "Viga", "10": "Virac", "11": "Bagamanoc", "12": "Baras", "13": "Bato", "14": "Caramoran", "15": "Gigmoto", "16": "Pandan", "17": "Panganiban", "18": "San Andress", "19": "San Miguel", "20": "Viga", "21": "Virac" } ]
-      } ,
-      { "name":"Cavite",
-          "towns":[ { "0": "Alfonso", "1": "Amadeo", "2": "Bacoor", "3": "Carmona", "4": "Cavite City", "5": "Dasmariñas", "6": "General Emilio Aguinaldo", "7": "General Mariano Alvarez", "8": "General Trias", "9": "Imus", "10": "Indang", "11": "Kawit", "12": "Magallanes", "13": "Maragondon", "14": "Mendez", "15": "Naic", "16": "Noveleta", "17": "Rosario", "18": "Silang", "19": "Tagaytay", "20": "Tanza", "21": "Ternate", "22": "Trece Martires" } ]
-      } ,
-      { "name":"Cebu",
-          "towns":[ { "0": "Alcantara", "1": "Alcoy", "2": "Alegria", "3": "Aloguinsan", "4": "Argao", "5": "Asturias", "6": "Badian", "7": "Balamban", "8": "Bantayan", "9": "Barili", "10": "Bogo", "11": "Boljoon", "12": "Borbon", "13": "Carcar", "14": "Carmen", "15": "Catmon", "16": "Cebu City", "17": "Compostela", "18": "Consolacion", "19": "Cordova", "20": "Daanbantayan", "21": "Dalaguete", "22": "Danao", "23": "Dumanjug", "24": "Ginatilan", "25": "Lapu-Lapu", "26": "Liloan", "27": "Madridejos", "28": "Malabuyoc", "29": "Mandaue", "30": "Medellin", "31": "Minglanilla", "32": "Moalboal", "33": "Naga", "34": "Oslob", "35": "Pilar", "36": "Pinamungajan", "37": "Poro", "38": "Ronda", "39": "Samboan", "40": "San Fernando", "41": "San Francisco", "42": "San Remigio", "43": "Santa Fe", "44": "Santander", "45": "Sibonga", "46": "Sogod", "47": "Tabogon", "48": "Tabuelan", "49": "Talisay", "50": "Toledo", "51": "Tuburan", "52": "Tudela" } ]
-      } ,
-      { "name":"Compostela Valley",
-          "towns":[ { "0": "Compostela", "1": "Laak", "2": "Mabini", "3": "Maco", "4": "Maragusan", "5": "Mawab", "6": "Monkayo", "7": "Montevista", "8": "Nabunturan", "9": "New Bataan", "10": "Pantukan" } ]
-      } ,
-      { "name":"Cotabato",
-          "towns":[ { "0": "Alamada", "1": "Aleosan", "2": "Antipas", "3": "Arakan", "4": "Banisilan", "5": "Carmen", "6": "Kabacan", "7": "Kidapawan", "8": "Libungan", "9": "M'lang", "10": "Magpet", "11": "Makilala", "12": "Matalam", "13": "Midsayap", "14": "Pigcawayan", "15": "Pikit", "16": "President Roxas", "17": "Tulunan"} ]
-      } ,
-      { "name":"Davao del Norte",
-          "towns":[ { "0": "Asuncion", "1": "Braulio E Dujali", "2": "Carmen", "3": "Kapalong", "4": "New Corella", "5": "Panabo", "6": "Samal", "7": "San Isidro", "8": "Santo Tomas", "9": "Tagum", "10": "Talaingod"} ]
-      } ,
-      { "name":"Davao del Sur",
-          "towns":[ { "0": "Bansalan", "1": "Davao City", "2": "Digos", "3": "Hagonoy", "4": "Kiblawan", "5": "Magsaysay", "6": "Malalag", "7": "Matanao", "8": "Padada", "9": "Santa Cruz", "10": "Sulop"} ]
-      } ,
-      { "name":"Davao Occidental",
-          "towns":[ { "0": "Don Marcelino", "1": "Jose Abad Santos", "2": "Malita", "3": "Santa Maria", "4": "Sarangani"} ]
-      } ,
-      { "name":"Davao Oriental",
-          "towns":[ { "0": "Baganga", "1": "Banaybanay", "2": "Boston", "3": "Caraga", "4": "Cateel", "5": "Governor Generoso", "6": "Lupon", "7": "Manay", "8": "Mati", "9": "San Isidro", "10": "Tarragona"} ]
-      } ,
-      { "name":"Dinagat Islands",
-          "towns":[ { "0": "Basilisa", "1": "Cagdianao", "2": "Dinagat", "3": "Libjo", "4": "Loreto", "5": "San Jose", "6": "Tubajon"} ]
-      } ,
-      { "name":"Eastern Samar",
-          "towns":[ { "0": "Arteche", "1": "Balangiga", "2": "Balangkayan", "3": "Borongan", "4": "Can-avid", "5": "Dolores", "6": "General MacArthur", "7": "Giporlos", "8": "Guiuan", "9": "Hernani", "10": "Jipapad", "11": "Lawaan", "12": "Llorente", "13": "Maslog", "14": "Maydolong", "15": "Mercedes", "16": "Oras", "17": "Quinapondan", "18": "Salcedo", "19": "San Julian", "20": "San Policarpo", "21": "Sulat", "22": "Taft"} ]
-      } ,
-      { "name":"Guimaras",
-          "towns":[ { "0": "Buenavista", "1": "Jordan", "2": "Nueva Valencia", "3": "San Lorenzo", "4": "Sibunag"} ]
-      } ,
-      { "name":"Ifugao",
-          "towns":[ { "0": "Aguinaldo", "1": "Alfonso Lista", "2": "Asipulo", "3": "Banaue", "4": "Hingyon", "5": "Hungduan", "6": "Kiangan", "7": "Lagawe", "8": "Lamut", "9": "Mayoyao", "10": "Tinoc"} ]
-      } ,
-      { "name":"Ilocos Norte",
-          "towns":[ {"0": "Adams", "1": "Bacarra", "2": "Badoc", "3": "Bangui", "4": "Banna", "5": "Batac", "6": "Burgos", "7": "Carasi", "8": "Currimao", "9": "Dingras", "10": "Dumalneg", "11": "Laoag", "12": "Marcos", "13": "Nueva Era", "14": "Pagudpud", "15": "Paoay", "16": "Pasuquin", "17": "Piddig", "18": "Pinili", "19": "San Nicolas", "20": "Sarrat", "21": "Solsona", "22": "Vintar"}]
+      { "name": "Region 2 (Cagayan Valley)",
+        "provinces": [
+          { "name":"Batanes",
+            "towns": [ { "0": "Basco", "1": "Itbayat", "2": "Ivana", "3": "Mahatao", "4": "Sabtang", "5": "Uyugan" } ]
+          },
+          { "name":"Cagayan",
+            "towns": [ { "0": "Abulug", "1": "Alcala", "2": "Allacapan", "3": "Amulung", "4": "Aparri", "5": "Baggao", "6": "Ballesteros", "7": "Buguey", "8": "Calayan", "9": "Camalaniugan", "10": "Claveria", "11": "Enrile", "12": "Gattaran", "13": "Gonzaga", "14": "Iguig", "15": "Lal-lo", "16": "Lasam", "17": "Pamplona", "18": "Peñablanca", "19": "Piat", "20": "Rizal", "21": "Sanchez-Mira", "22": "Santa Ana", "23": "Santa Praxedes", "24": "Santa Teresita", "25": "Santo Niño (Faire)", "26": "Solana", "27": "Tuao", "28": "Tuguegarao City" } ]
+          },
+          { "name":"Isabela",
+            "towns": [ {"0": "Alicia", "1": "Angadanan", "2": "Aurora", "3": "Benito Soliven", "4": "Burgos", "5": "Cabagan", "6": "Cabatuan", "7": "Cauayan[1]", "8": "Cordon", "9": "Delfin Albano", "10": "Dinapigue", "11": "Divilacan", "12": "Echague", "13": "Gamu", "14": "Ilagan[2]", "15": "Jones", "16": "Luna", "17": "Maconacon", "18": "Mallig", "19": "Naguilian", "20": "Palanan", "21": "Quezon", "22": "Quirino", "23": "Ramon", "24": "Reina Mercedes", "25": "Roxas", "26": "San Agustin", "27": "San Guillermo", "28": "San Isidro", "29": "San Manuel", "30": "San Mariano", "31": "San Mateo", "32": "San Pablo", "33": "Santa Maria", "34": "Santiago[3]", "35": "Santo Tomas", "36": "Tumauini"}]
+          },
+          { "name":"Nueva Vizcaya",
+            "towns":[ { "0": "Alfonso Castañeda", "1": "Ambaguio", "2": "Aritao", "3": "Bagabag", "4": "Bambang", "5": "Bayombong", "6": "Diadi", "7": "Dupax del Norte", "8": "Dupax del Sur", "9": "Kasibu", "10": "Kayapa", "11": "Quezon", "12": "Santa Fe", "13": "Solano", "14": "Villaverde" } ]
+          },
+          { "name":"Quirino",
+            "towns": [ { "0": "Aglipay", "1": "Cabarroguis", "2": "Diffun", "3": "Maddela", "4": "Nagtipunan", "5": "Saguday" } ]
+          }
+        ],
+        "towns":""
       },
-      { "name":"Ilocos Sur",
-          "towns":[ {"0": "Alilem", "1": "Banayoyo", "2": "Bantay", "3": "Burgos", "4": "Cabugao", "5": "Candon", "6": "Caoayan", "7": "Cervantes", "8": "Galimuyod", "9": "Gregorio del Pilar", "10": "Lidlidda", "11": "Magsingal", "12": "Nagbukel", "13": "Narvacan", "14": "Quirino", "15": "Salcedo", "16": "San Emilio", "17": "San Esteban", "18": "San Ildefonso", "19": "San Juan", "20": "San Vicente", "21": "Santa", "22": "Santa Catalina", "23": "Santa Cruz", "24": "Santa Lucia", "25": "Santa Maria", "26": "Santiago", "27": "Santo Domingo", "28": "Sigay", "29": "Sinait", "30": "Sugpon", "31": "Suyo", "32": "Tagudin", "33": "Vigan"}]
+      { "name": "Region 3 (Central Luzon)",
+        "provinces": [
+          { "name":"Aurora",
+            "towns": [ { "0": "Baler", "1": "Casiguran", "2": "Dilasag", "3": "Dinalungan", "4": "Dingalan", "5": "Dipaculao" } ]
+          },
+          { "name":"Bataan",
+            "towns": [ { "0": "Abucay", "1": "Bagac", "2": "Balanga", "3": "Dinalupihan", "4": "Hermosa", "5": "Limay", "6": "Mariveles", "7": "Morong", "8": "Orani", "9": "Orion", "10": "Pilar", "11": "Samal" } ]
+          },
+          { "name":"Bulacan",
+            "towns": [ { "0": "Angat", "1": "Balagtas", "2": "Baliuag", "3": "Bocaue", "4": "Bulakan", "5": "Bustos", "6": "Calumpit", "7": "Doña Remedios Trinidad", "8": "Guiguinto", "9": "Hagonoy", "10": "Malolos", "11": "Marilao", "12": "Meycauayan", "13": "Norzagaray", "14": "Obando", "15": "Pandi", "16": "Paombong", "17": "Plaridel", "18": "Pulilan", "19": "San Ildefonso", "20": "San Jose del Monte", "21": "San Miguel", "22": "San Rafael", "23": "Santa Maria" } ]
+          },
+          { "name":"Nueva Ecija",
+            "towns": [ { "0": "Aliaga", "1": "Bongabon", "2": "Cabanatuan", "3": "Cabiao", "4": "Carranglan", "5": "Cuyapo", "6": "Gabaldon (Bitulok & Sabani)", "7": "Gapan", "8": "General Mamerto Natividad", "9": "General Tinio (Papaya)", "10": "Guimba", "11": "Jaen", "12": "Laur", "13": "Licab", "14": "Llanera", "15": "Lupao", "16": "Muñoz", "17": "Nampicuan", "18": "Palayan", "19": "Pantabangan", "20": "Peñaranda", "21": "Quezon", "22": "Rizal", "23": "San Antonio", "24": "San Isidro", "25": "Cabaritan (San Jose)", "26": "San Leonardo", "27": "Santa Rosa", "28": "Santo Domingo", "29": "Talavera", "30": "Talugtug", "31": "Zaragoza" } ]
+          },
+          { "name":"Pampanga",
+            "towns": [ { "0": "Angeles", "1": "Apalit", "2": "Arayat", "3": "Bacolor", "4": "Candaba", "5": "Floridablanca", "6": "Guagua", "7": "Lubao", "8": "Mabalacat", "9": "Macabebe", "10": "Magalang", "11": "Masantol", "12": "Mexico", "13": "Minalin", "14": "Porac", "15": "San Fernando", "16": "San Luis", "17": "San Simon", "18": "Santa Ana", "19": "Santa Rita", "20": "Santo Tomas", "21": "Sasmuan" } ]
+          },
+          { "name":"Tarlac",
+            "towns": [ { "0": "Anao", "1": "Bamban", "2": "Camiling", "3": "Capas", "4": "Concepcion", "5": "Gerona", "6": "La Paz", "7": "Mayantoc", "8": "Moncada", "9": "Paniqui", "10": "Pura", "11": "Ramos", "12": "San Clemente", "13": "San Jose", "14": "San Manuel", "15": "Santa Ignacia", "16": "Tarlac City", "17": "Victoria" } ]
+          },
+          { "name":"Zambales",
+            "towns": [ { "0": "Botolan", "1": "Cabangan", "2": "Candelaria", "3": "Castillejos", "4": "Iba", "5": "Masinloc", "6": "Olongapo", "7": "Palauig", "8": "San Antonio", "9": "San Felipe", "10": "San Marcelino", "11": "San Narciso", "12": "Santa Cruz", "13": "Subic" } ]
+          }
+        ],
+        "towns": ""
       },
-      { "name":"Iloilo",
-          "towns":[ {"0": "Ajuy", "1": "Alimodian", "2": "Anilao", "3": "Badiangan", "4": "Balasan", "5": "Banate", "6": "Barotac Nuevo", "7": "Barotac Viejo", "8": "Batad", "9": "Bingawan", "10": "Cabatuan", "11": "Calinog", "12": "Carles", "13": "Concepcion", "14": "Dingle", "15": "Dueñas", "16": "Dumangas", "17": "Estancia", "18": "Guimbal", "19": "Igbaras", "20": "Iloilo City", "21": "Janiuay", "22": "Lambunao", "23": "Leganes", "24": "Lemery", "25": "Leon", "26": "Maasin", "27": "Miagao", "28": "Mina", "29": "New Lucena", "30": "Oton", "31": "Passi", "32": "Pavia", "33": "Pototan", "34": "San Dionisio", "35": "San Enrique", "36": "San Joaquin", "37": "San Miguel", "38": "San Rafael", "39": "Santa Barbara", "40": "Sara", "41": "Tigbauan", "42": "Tubungan", "43": "Zarraga"}]
+      { "name": "Region 4A (CALABARZON)",
+        "provinces": [
+          { "name":"Batangas",
+            "towns": [ { "0": "Agoncillo", "1": "Alitagtag", "2": "Balayan", "3": "Balete", "4": "Batangas City", "5": "Bauan", "6": "Calaca", "7": "Calatagan", "8": "Cuenca", "9": "Ibaan", "10": "Laurel", "11": "Lemery", "12": "Lian", "13": "Lipa", "14": "Lobo", "15": "Mabini", "16": "Malvar", "17": "Mataasnakahoy", "18": "Nasugbu", "19": "Padre Garcia", "20": "Rosario", "21": "San Jose", "22": "San Juan", "23": "San Luis", "24": "San Nicolas", "25": "San Pascual", "26": "Santa Teresita", "27": "Santo Tomas", "28": "Taal", "29": "Talisay", "30": "Tanauan", "31": "Taysan", "32": "Tingloy", "33": "Tuy" } ]
+          },
+          { "name":"Cavite",
+            "towns": [ { "0": "Alfonso", "1": "Amadeo", "2": "Bacoor", "3": "Carmona", "4": "Cavite City", "5": "Dasmariñas", "6": "General Emilio Aguinaldo", "7": "General Mariano Alvarez", "8": "General Trias", "9": "Imus", "10": "Indang", "11": "Kawit", "12": "Magallanes", "13": "Maragondon", "14": "Mendez", "15": "Naic", "16": "Noveleta", "17": "Rosario", "18": "Silang", "19": "Tagaytay", "20": "Tanza", "21": "Ternate", "22": "Trece Martires" } ]
+          },
+          { "name":"Laguna",
+            "towns": [ {"0": "Alaminos", "1": "Bay", "2": "Biñan", "3": "Cabuyao", "4": "Calamba", "5": "Calauan", "6": "Cavinti", "7": "Famy", "8": "Kalayaan", "9": "Liliw", "10": "Los Baños[2]", "11": "Luisiana", "12": "Lumban", "13": "Mabitac", "14": "Magdalena", "15": "Majayjay", "16": "Nagcarlan", "17": "Paete", "18": "Pagsanjan", "19": "Pakil", "20": "Pangil", "21": "Pila", "22": "Rizal", "23": "San Pablo", "24": "San Pedro", "25": "Santa Cruz", "26": "Santa Maria", "27": "Santa Rosa", "28": "Siniloan", "29": "Victoria"}]
+          },
+          { "name":"Quezon",
+            "towns": [ { "0": "Agdangan", "1": "Alabat", "2": "Atimonan", "3": "Buenavista", "4": "Burdeos", "5": "Calauag", "6": "Candelaria", "7": "Catanauan", "8": "Dolores", "9": "General Luna", "10": "General Nakar", "11": "Guinayangan", "12": "Gumaca", "13": "Infanta", "14": "Jomalig", "15": "Lopez", "16": "Lucban", "17": "Lucena", "18": "Macalelon", "19": "Mauban", "20": "Mulanay", "21": "Padre Burgos", "22": "Pagbilao", "23": "Panukulan", "24": "Patnanungan", "25": "Perez", "26": "Pitogo", "27": "Plaridel", "28": "Polillo", "29": "Quezon", "30": "Real", "31": "Sampaloc", "32": "San Andres", "33": "San Antonio", "34": "San Francisco", "35": "San Narciso", "36": "Sariaya", "37": "Tagkawayan", "38": "Tayabas", "39": "Tiaong", "40": "Unisan" } ]
+          },
+          { "name":"Rizal",
+            "towns": [ { "0": "Angono", "1": "Antipolo", "2": "Baras", "3": "Binangonan", "4": "Cainta", "5": "Cardona", "6": "Jalajala", "7": "Morong", "8": "Pililla", "9": "Rodriguez", "10": "San Mateo", "11": "Tanay", "12": "Taytay", "13": "Teresa" } ]
+          }
+        ],
+        "towns": ""
       },
-      { "name":"Isabela",
-          "towns":[ {"0": "Alicia", "1": "Angadanan", "2": "Aurora", "3": "Benito Soliven", "4": "Burgos", "5": "Cabagan", "6": "Cabatuan", "7": "Cauayan[1]", "8": "Cordon", "9": "Delfin Albano", "10": "Dinapigue", "11": "Divilacan", "12": "Echague", "13": "Gamu", "14": "Ilagan[2]", "15": "Jones", "16": "Luna", "17": "Maconacon", "18": "Mallig", "19": "Naguilian", "20": "Palanan", "21": "Quezon", "22": "Quirino", "23": "Ramon", "24": "Reina Mercedes", "25": "Roxas", "26": "San Agustin", "27": "San Guillermo", "28": "San Isidro", "29": "San Manuel", "30": "San Mariano", "31": "San Mateo", "32": "San Pablo", "33": "Santa Maria", "34": "Santiago[3]", "35": "Santo Tomas", "36": "Tumauini"}]
+      { "name": "Region 4B (MIMAROPA)",
+        "provinces": [
+          { "name":"Marinduque",
+            "towns": [ { "0": "Boac", "1": "Buenavista", "2": "Gasan", "3": "Mogpog", "4": "Santa Cruz", "5": "Torrijos"} ]
+          },
+          { "name":"Occidental Mindoro",
+            "towns": [ { "0": "Abra de Ilog", "1": "Calintaan", "2": "Looc", "3": "Lubang", "4": "Magsaysay", "5": "Mamburao", "6": "Paluan", "7": "Rizal", "8": "Sablayan", "9": "San Jose", "10": "Santa Cruz" } ]
+          },
+          { "name":"Oriental Mindoro",
+            "towns": [ { "0": "Baco", "1": "Bansud", "2": "Bongabong", "3": "Bulalacao (San Pedro)", "4": "Calapan", "5": "Gloria", "6": "Mansalay", "7": "Naujan", "8": "Pinamalayan", "9": "Pola", "10": "Puerto Galera", "11": "Roxas", "12": "San Teodoro", "13": "Socorro", "14": "Victoria" } ]
+          },
+          { "name":"Palawan",
+            "towns": [ { "0": "Aborlan", "1": "Agutaya", "2": "Araceli", "3": "Balabac", "4": "Bataraza", "5": "Brooke's Point", "6": "Busuanga", "7": "Cagayancillo", "8": "Coron", "9": "Culion", "10": "Cuyo", "11": "Dumaran", "12": "El Nido", "13": "Kalayaan", "14": "Linapacan", "15": "Magsaysay", "16": "Narra", "17": "Puerto Princesa", "18": "Quezon", "19": "Rizal", "20": "Roxas", "21": "San Vicente", "22": "Sofronio Española", "23": "Taytay" } ]
+          },
+          { "name":"Romblon",
+            "towns": [ { "0": "Alcantara", "1": "Banton", "2": "Cajidiocan", "3": "Calatrava", "4": "Concepcion", "5": "Corcuera", "6": "Ferrol", "7": "Looc", "8": "Magdiwang", "9": "Odiongan", "10": "Romblon", "11": "San Agustin", "12": "San Andres", "13": "San Fernando", "14": "San Jose", "15": "Santa Fe", "16": "Santa Maria" } ]
+          }
+        ],
+        "towns": ""
       },
-      { "name":"Kalinga",
-          "towns":[ {"0": "Balbalan", "1": "Lubuagan", "2": "Pasil", "3": "Pinukpuk", "4": "Rizal", "5": "Tabuk", "6": "Tanudan", "7": "Tinglayan"}]
+      { "name": "Region 5 (Bicol Region)",
+        "provinces": [
+          { "name":"Albay",
+            "towns": [ { "0": "Bacacay", "1": "Camalig", "2": "Daraga", "3": "Guinobatan", "4": "Jovellar", "5": "Legazpi", "6": "Libon", "7": "Ligao", "8": "Malilipot", "9": "Malinao", "10": "Manito", "11": "Oas", "12": "Pio Duran", "13": "Polangui", "14": "Rapu-Rapu", "15": "Santo Domingo", "16": "Tabaco", "17": "Tiwi" } ]
+          },
+          { "name":"Camarines Norte",
+            "towns": [ { "0": "Basud", "1": "Capalonga", "2": "Daet", "3": "Jose Panganiban", "4": "Labo", "5": "Mercedes", "6": "Paracale", "7": "San Lorenzo Ruiz", "8": "San Vicente", "9": "Santa Elena", "10": "Talisay", "11": "Vinzons" } ]
+          },
+          { "name":"Camarines Sur",
+            "towns": [ { "0": "Baao", "1": "Balatan", "2": "Bato", "3": "Bombon", "4": "Buhi", "5": "Bula", "6": "Cabusao", "7": "Calabanga", "8": "Camaligan", "9": "Canaman", "10": "Caramoan", "11": "Del Gallego", "12": "Gainza", "13": "Garchitorena", "14": "Goa", "15": "Iriga", "16": "Lagonoy", "17": "Libmanan", "18": "Lupi", "19": "Magarao", "20": "Milaor", "21": "Minalabac", "22": "Nabua", "23": "Naga", "24": "Ocampo", "25": "Pamplona", "26": "Pasacao", "27": "Pili", "28": "Presentacion", "29": "Ragay", "30": "Sagñay", "31": "San Fernando", "32": "San Jose", "33": "Sipocot", "34": "Siruma", "35": "Tigaon", "36": "Tinambac" } ]
+          },
+          { "name":"Catanduanes",
+            "towns": [ { "0": "Bagamanoc", "1": "Baras", "2": "Bato", "3": "Caramoran", "4": "Gigmoto", "5": "Pandan", "6": "Panganiban", "7": "San Andres", "8": "San Miguel", "9": "Viga", "10": "Virac", "11": "Bagamanoc", "12": "Baras", "13": "Bato", "14": "Caramoran", "15": "Gigmoto", "16": "Pandan", "17": "Panganiban", "18": "San Andress", "19": "San Miguel", "20": "Viga", "21": "Virac" } ]
+          },
+          { "name":"Masbate",
+            "towns": [ { "0": "Aroroy", "1": "Baleno", "2": "Balud", "3": "Batuan", "4": "Cataingan", "5": "Cawayan", "6": "Claveria", "7": "Dimasalang", "8": "Esperanza", "9": "Mandaon", "10": "Masbate City", "11": "Milagros", "12": "Mobo", "13": "Monreal", "14": "Palanas", "15": "Pio V Corpuz", "16": "Placer", "17": "San Fernando", "18": "San Jacinto", "19": "San Pascual", "20": "Uson"} ]
+          },
+          { "name":"Sorsogon",
+            "towns": [ { "0": "Barcelona", "1": "Bulan", "2": "Bulusan", "3": "Casiguran", "4": "Castilla", "5": "Donsol", "6": "Gubat", "7": "Irosin", "8": "Juban", "9": "Magallanes", "10": "Matnog", "11": "Pilar", "12": "Prieto Diaz", "13": "Santa Magdalena", "14": "Sorsogon City" } ]
+          }
+        ],
+        "towns": ""
       },
-      { "name":"La Union",
-          "towns":[ {"0": "Agoo", "1": "Aringay", "2": "Bacnotan", "3": "Bagulin", "4": "Balaoan", "5": "Bangar", "6": "Bauang", "7": "Burgos", "8": "Caba", "9": "Luna", "10": "Naguilian", "11": "Pugo", "12": "Rosario", "13": "San Fernando", "14": "San Gabriel", "15": "San Juan", "16": "Santo Tomas", "17": "Santol", "18": "Sudipen", "19": "Tubao"}]
+      { "name": "Region 6 (Western Visayas)",
+        "provinces": [
+          { "name":"Aklan",
+            "towns": [ { "0": "Altavas", "1": "Balete", "2": "Banga", "3": "Batan", "4": "Buruanga", "5": "Ibajay", "6": "Kalibo", "7": "Lezo", "8": "Libacao", "9": "Madalag", "10": "Makato", "11": "Malay", "12": "Malinao", "13": "Nabas", "14": "New Washington", "15": "Numancia", "16": "Tangalan" } ]
+          },
+          { "name":"Antique",
+            "towns": [ { "0": "Anini-y", "1": "Barbaza", "2": "Belison", "3": "Bugasong", "4": "Caluya", "5": "Culasi", "6": "Hamtic", "7": "Laua-an", "8": "Libertad", "9": "Pandan", "10": "Patnongon", "11": "San Jose de Buenavista", "12": "San Remigio", "13": "Sebaste", "14": "Sibalom", "15": "Tibiao", "16": "Tobias Fornier", "17": "Valderrama" } ]
+          },
+          { "name":"Capiz",
+            "towns": [ { "0": "Cuartero", "1": "Dao", "2": "Dumalag", "3": "Dumarao", "4": "Ivisan", "5": "Jamindan", "6": "Maayon", "7": "Mambusao", "8": "Panay", "9": "Panitan", "10": "Pilar", "11": "Pontevedra", "12": "President Roxas", "13": "Roxas City", "14": "Sapian", "15": "Sigma", "16": "Tapaz" } ]
+          },
+          { "name":"Guimaras",
+            "towns": [ { "0": "Buenavista", "1": "Jordan", "2": "Nueva Valencia", "3": "San Lorenzo", "4": "Sibunag"} ]
+          },
+          { "name":"Iloilo",
+            "towns": [ {"0": "Ajuy", "1": "Alimodian", "2": "Anilao", "3": "Badiangan", "4": "Balasan", "5": "Banate", "6": "Barotac Nuevo", "7": "Barotac Viejo", "8": "Batad", "9": "Bingawan", "10": "Cabatuan", "11": "Calinog", "12": "Carles", "13": "Concepcion", "14": "Dingle", "15": "Dueñas", "16": "Dumangas", "17": "Estancia", "18": "Guimbal", "19": "Igbaras", "20": "Iloilo City", "21": "Janiuay", "22": "Lambunao", "23": "Leganes", "24": "Lemery", "25": "Leon", "26": "Maasin", "27": "Miagao", "28": "Mina", "29": "New Lucena", "30": "Oton", "31": "Passi", "32": "Pavia", "33": "Pototan", "34": "San Dionisio", "35": "San Enrique", "36": "San Joaquin", "37": "San Miguel", "38": "San Rafael", "39": "Santa Barbara", "40": "Sara", "41": "Tigbauan", "42": "Tubungan", "43": "Zarraga"}]
+          },
+          { "name":"Negros Occidental",
+            "towns": [ { "0": "Bacolod", "1": "Bago", "2": "Binalbagan", "3": "Cadiz", "4": "Calatrava", "5": "Candoni", "6": "Cauayan", "7": "Enrique B Magalona (Saravia)", "8": "Escalante", "9": "Himamaylan", "10": "Hinigaran", "11": "Hinoba-an (Asia)", "12": "Ilog", "13": "Isabela", "14": "Kabankalan", "15": "La Carlota", "16": "La Castellana", "17": "Manapla", "18": "Moises Padilla (Magallon)", "19": "Murcia", "20": "Pontevedra", "21": "Pulupandan", "22": "Sagay", "23": "Salvador Benedicto", "24": "San Carlos", "25": "San Enrique", "26": "Silay", "27": "Sipalay", "28": "Talisay", "29": "Toboso", "30": "Valladolid", "31": "Victorias"} ]
+          }
+        ],
+        "towns": ""
       },
-      { "name":"Laguna",
-          "towns":[ {"0": "Alaminos", "1": "Bay", "2": "Biñan", "3": "Cabuyao", "4": "Calamba", "5": "Calauan", "6": "Cavinti", "7": "Famy", "8": "Kalayaan", "9": "Liliw", "10": "Los Baños[2]", "11": "Luisiana", "12": "Lumban", "13": "Mabitac", "14": "Magdalena", "15": "Majayjay", "16": "Nagcarlan", "17": "Paete", "18": "Pagsanjan", "19": "Pakil", "20": "Pangil", "21": "Pila", "22": "Rizal", "23": "San Pablo", "24": "San Pedro", "25": "Santa Cruz", "26": "Santa Maria", "27": "Santa Rosa", "28": "Siniloan", "29": "Victoria"}]
+      { "name": "Region 7 (Central Visayas)",
+        "provinces": [
+          { "name":"Bohol",
+            "towns": [ { "0": "Alburquerque", "1": "Antequera", "2": "Baclayon", "3": "Balilihan", "4": "Calape", "5": "Catigbian", "6": "Corella", "7": "Cortes", "8": "Dauis", "9": "Loon", "10": "Maribojoc", "11": "Panglao", "12": "Sikatuna", "13": "Tagbilaran", "14": "Tubigon", "15": "Bien Unido", "16": "Buenavista", "17": "Clarin", "18": "Dagohoy", "19": "Danao", "20": "Getafe", "21": "Inabanga", "22": "President Carlos P. Garcia", "23": "Sagbayan", "24": "San Isidro", "25": "San Miguel", "26": "Talibon", "27": "Trinidad", "28": "Ubay", "29": "Alicia", "30": "Anda", "31": "Batuan", "32": "Bilar", "33": "Candijay", "34": "Carmen", "35": "Dimiao", "36": "Duero", "37": "Garcia Hernandez", "38": "Guindulman", "39": "Jagna", "40": "Sevilla", "41": "Lila", "42": "Loay", "43": "Loboc", "44": "Mabini", "45": "Pilar", "46": "Sierra Bullones", "47": "Valencia" } ]
+          },
+          { "name":"Cebu",
+            "towns": [ { "0": "Alcantara", "1": "Alcoy", "2": "Alegria", "3": "Aloguinsan", "4": "Argao", "5": "Asturias", "6": "Badian", "7": "Balamban", "8": "Bantayan", "9": "Barili", "10": "Bogo", "11": "Boljoon", "12": "Borbon", "13": "Carcar", "14": "Carmen", "15": "Catmon", "16": "Cebu City", "17": "Compostela", "18": "Consolacion", "19": "Cordova", "20": "Daanbantayan", "21": "Dalaguete", "22": "Danao", "23": "Dumanjug", "24": "Ginatilan", "25": "Lapu-Lapu", "26": "Liloan", "27": "Madridejos", "28": "Malabuyoc", "29": "Mandaue", "30": "Medellin", "31": "Minglanilla", "32": "Moalboal", "33": "Naga", "34": "Oslob", "35": "Pilar", "36": "Pinamungajan", "37": "Poro", "38": "Ronda", "39": "Samboan", "40": "San Fernando", "41": "San Francisco", "42": "San Remigio", "43": "Santa Fe", "44": "Santander", "45": "Sibonga", "46": "Sogod", "47": "Tabogon", "48": "Tabuelan", "49": "Talisay", "50": "Toledo", "51": "Tuburan", "52": "Tudela" } ]
+          },
+          { "name":"Negros Oriental",
+            "towns": [ { "0": "Amlan (Ayuquitan)", "1": "Ayungon", "2": "Bacong", "3": "Bais", "4": "Basay", "5": "Bayawan (Tulong)", "6": "Bindoy (Payabon)", "7": "Canlaon", "8": "Dauin", "9": "Dumaguete", "10": "Guihulngan", "11": "Jimalalud", "12": "La Libertad", "13": "Mabinay", "14": "Manjuyod", "15": "Pamplona", "16": "San Jose", "17": "Santa Catalina", "18": "Siaton", "19": "Sibulan", "20": "Tanjay", "21": "Tayasan", "22": "Valencia (Luzurriaga)[C]", "23": "Vallehermoso", "24": "Zamboanguita" } ]
+          },
+          { "name":"Siquijor",
+            "towns": [ { "0": "Enrique Villanueva", "1": "Larena", "2": "Lazi", "3": "Maria", "4": "San Juan", "5": "Siquijor" } ]
+          }
+        ],
+        "towns": ""
       },
-      { "name":"Lanao del Norte",
-          "towns":[ {"0": "Bacolod", "1": "Baloi", "2": "Baroy", "3": "Iligan", "4": "Kapatagan", "5": "Kauswagan", "6": "Kolambugan", "7": "Lala", "8": "Linamon", "9": "Magsaysay", "10": "Maigo", "11": "Matungao", "12": "Munai", "13": "Nunungan", "14": "Pantao Ragat", "15": "Pantar", "16": "Poona Piagapo", "17": "Salvador", "18": "Sapad", "19": "Sultan Naga Dimaporo (Karomatan)", "20": "Tagoloan", "21": "Tangcal", "22": "Tubod"}]
+      { "name": "Region 8 (Eastern Visayas)",
+        "provinces": [
+          { "name":"Biliran",
+            "towns": [ { "0": "Almeria", "1": "Biliran", "2": "Cabucgayan", "3": "Caibiran", "4": "Culaba", "5": "Kawayan", "6": "Maripipi", "7": "Naval" } ]
+          },
+          { "name":"Eastern Samar",
+            "towns": [ { "0": "Arteche", "1": "Balangiga", "2": "Balangkayan", "3": "Borongan", "4": "Can-avid", "5": "Dolores", "6": "General MacArthur", "7": "Giporlos", "8": "Guiuan", "9": "Hernani", "10": "Jipapad", "11": "Lawaan", "12": "Llorente", "13": "Maslog", "14": "Maydolong", "15": "Mercedes", "16": "Oras", "17": "Quinapondan", "18": "Salcedo", "19": "San Julian", "20": "San Policarpo", "21": "Sulat", "22": "Taft"} ]
+          },
+          { "name":"Leyte",
+            "towns": [ { "0": "Abuyog", "1": "Alangalang", "2": "Albuera", "3": "Babatngon", "4": "Barugo", "5": "Bato", "6": "Baybay", "7": "Burauen", "8": "Calubian", "9": "Capoocan", "10": "Carigara", "11": "Dagami", "12": "Dulag", "13": "Hilongos", "14": "Hindang", "15": "Inopacan", "16": "Isabel", "17": "Jaro", "18": "Javier (Bugho)", "19": "Julita", "20": "Kananga", "21": "La Paz", "22": "Leyte", "23": "MacArthur", "24": "Mahaplag", "25": "Matag-ob", "26": "Matalom", "27": "Mayorga", "28": "Merida", "29": "Ormoc", "30": "Palo", "31": "Palompon", "32": "Pastrana", "33": "San Isidro", "34": "San Miguel", "35": "Santa Fe", "36": "Tabango", "37": "Tabontabon", "38": "Tacloban", "39": "Tanauan", "40": "Tolosa", "41": "Tunga", "42": "Villaba"} ]
+          },
+          { "name":"Northern Samar",
+            "towns": [ { "0": "Allen", "1": "Biri", "2": "Bobon", "3": "Capul", "4": "Catarman", "5": "Catubig", "6": "Gamay", "7": "Laoang", "8": "Lapinig", "9": "Las Navas", "10": "Lavezares", "11": "Lope de Vega", "12": "Mapanas", "13": "Mondragon", "14": "Palapag", "15": "Pambujan", "16": "Rosario", "17": "San Antonio", "18": "San Isidro", "19": "San Jose", "20": "San Roque", "21": "San Vicente", "22": "Silvino Lobos", "23": "Victoria" } ]
+          },
+          { "name":"Samar",
+            "towns": [ { "0": "Almagro", "1": "Basey", "2": "Calbayog", "3": "Calbiga", "4": "Catbalogan", "5": "Daram", "6": "Gandara", "7": "Hinabangan", "8": "Jiabong", "9": "Marabut", "10": "Matuguinao", "11": "Motiong", "12": "Pagsanghan", "13": "Paranas (Wright)", "14": "Pinabacdao", "15": "San Jorge", "16": "San Jose de Buan", "17": "San Sebastian", "18": "Santa Margarita", "19": "Santa Rita", "20": "Santo Niño", "21": "Tagapul-an", "22": "Talalora", "23": "Tarangnan", "24": "Villareal", "25": "Zumarraga" } ]
+          },
+          { "name":"Southern Leyte",
+            "towns": [ { "0": "Anahawan", "1": "Bontoc", "2": "Hinunangan", "3": "Hinundayan", "4": "Libagon", "5": "Liloan", "6": "Limasawa", "7": "Maasin", "8": "Macrohon", "9": "Malitbog", "10": "Padre Burgos", "11": "Pintuyan", "12": "Saint Bernard", "13": "San Francisco", "14": "San Juan", "15": "San Ricardo", "16": "Silago", "17": "Sogod", "18": "Tomas Oppus" } ]
+          }
+        ],
+        "towns": ""
       },
-      {"name":"Lanao del Sur",
-          "towns":[ { "0": "Amai Manabilang (Bumbaran)", "1": "Bacolod-Kalawi (Bacolod-Grande)", "2": "Balabagan", "3": "Balindong (Watu)", "4": "Bayang", "5": "Binidayan", "6": "Buadiposo-Buntong", "7": "Bubong", "8": "Butig", "9": "Calanogas", "10": "Ditsaan-Ramain", "11": "Ganassi", "12": "Kapai", "13": "Kapatagan", "14": "Lumba-Bayabao (Maguing)", "15": "Lumbaca-Unayan", "16": "Lumbatan", "17": "Lumbayanague", "18": "Madalum", "19": "Madamba", "20": "Maguing", "21": "Malabang", "22": "Marantao", "23": "Marawi", "24": "Marogong", "25": "Masiu", "26": "Mulondo", "27": "Pagayawan (Tatarikan)", "28": "Piagapo", "29": "Picong (Sultan Gumander)", "30": "Poona Bayabao (Gata)", "31": "Pualas", "32": "Saguiaran", "33": "Sultan Dumalondong", "34": "Tagoloan II", "35": "Tamparan", "36": "Taraka", "37": "Tubaran", "38": "Tugaya", "39": "Wao"} ]
-      } ,
-      {"name":"Leyte",
-          "towns":[ { "0": "Abuyog", "1": "Alangalang", "2": "Albuera", "3": "Babatngon", "4": "Barugo", "5": "Bato", "6": "Baybay", "7": "Burauen", "8": "Calubian", "9": "Capoocan", "10": "Carigara", "11": "Dagami", "12": "Dulag", "13": "Hilongos", "14": "Hindang", "15": "Inopacan", "16": "Isabel", "17": "Jaro", "18": "Javier (Bugho)", "19": "Julita", "20": "Kananga", "21": "La Paz", "22": "Leyte", "23": "MacArthur", "24": "Mahaplag", "25": "Matag-ob", "26": "Matalom", "27": "Mayorga", "28": "Merida", "29": "Ormoc", "30": "Palo", "31": "Palompon", "32": "Pastrana", "33": "San Isidro", "34": "San Miguel", "35": "Santa Fe", "36": "Tabango", "37": "Tabontabon", "38": "Tacloban", "39": "Tanauan", "40": "Tolosa", "41": "Tunga", "42": "Villaba"} ]
-      } ,
-      {"name": "Maguindanao", 
-          "towns":"" 
-      } ,
-      {"name":"Marinduque",
-          "towns":[ { "0": "Boac", "1": "Buenavista", "2": "Gasan", "3": "Mogpog", "4": "Santa Cruz", "5": "Torrijos"} ]
-      } ,
-      {"name":"Masbate",
-          "towns":[ { "0": "Aroroy", "1": "Baleno", "2": "Balud", "3": "Batuan", "4": "Cataingan", "5": "Cawayan", "6": "Claveria", "7": "Dimasalang", "8": "Esperanza", "9": "Mandaon", "10": "Masbate City", "11": "Milagros", "12": "Mobo", "13": "Monreal", "14": "Palanas", "15": "Pio V Corpuz", "16": "Placer", "17": "San Fernando", "18": "San Jacinto", "19": "San Pascual", "20": "Uson"} ]
-      } ,
-      {"name":"Misamis Occidental",
-          "towns":[ { "0": "Aloran", "1": "Baliangao", "2": "Bonifacio", "3": "Calamba", "4": "Clarin", "5": "Concepcion", "6": "Don Victoriano Chiongbian(Don Mariano Marcos)", "7": "Jimenez", "8": "Lopez Jaena", "9": "Oroquieta", "10": "Ozamiz", "11": "Panaon", "12": "Plaridel", "13": "Sapang Dalaga", "14": "Sinacaban", "15": "Tangub", "16": "Tudela"} ]
-      } ,
-      {"name":"Misamis Oriental",
-          "towns":[ { "0": "Alubijid", "1": "Balingasag", "2": "Balingoan", "3": "Binuangan", "4": "Cagayan de Oro", "5": "Claveria", "6": "El Salvador", "7": "Gingoog", "8": "Gitagum", "9": "Initao", "10": "Jasaan", "11": "Kinoguitan", "12": "Lagonglong", "13": "Laguindingan", "14": "Libertad", "15": "Lugait", "16": "Magsaysay", "17": "Manticao", "18": "Medina", "19": "Naawan", "20": "Opol", "21": "Salay", "22": "Sugbongcogon", "23": "Tagoloan", "24": "Talisayan", "25": "Villanueva"} ]
-      } ,
-      {"name":"Mountain Province",
-          "towns":[ { "0": "Barlig", "1": "Bauko", "2": "Besao", "3": "Bontoc", "4": "Natonin", "5": "Paracelis", "6": "Sabangan", "7": "Sadanga", "8": "Sagada", "9": "Tadian"} ]
-      } ,
-      {"name":"Negros Occidental",
-          "towns":[ { "0": "Bacolod", "1": "Bago", "2": "Binalbagan", "3": "Cadiz", "4": "Calatrava", "5": "Candoni", "6": "Cauayan", "7": "Enrique B Magalona (Saravia)", "8": "Escalante", "9": "Himamaylan", "10": "Hinigaran", "11": "Hinoba-an (Asia)", "12": "Ilog", "13": "Isabela", "14": "Kabankalan", "15": "La Carlota", "16": "La Castellana", "17": "Manapla", "18": "Moises Padilla (Magallon)", "19": "Murcia", "20": "Pontevedra", "21": "Pulupandan", "22": "Sagay", "23": "Salvador Benedicto", "24": "San Carlos", "25": "San Enrique", "26": "Silay", "27": "Sipalay", "28": "Talisay", "29": "Toboso", "30": "Valladolid", "31": "Victorias"} ]
-      } ,
-      { "name":"Negros Oriental",
-          "towns":[ { "0": "Amlan (Ayuquitan)", "1": "Ayungon", "2": "Bacong", "3": "Bais", "4": "Basay", "5": "Bayawan (Tulong)", "6": "Bindoy (Payabon)", "7": "Canlaon", "8": "Dauin", "9": "Dumaguete", "10": "Guihulngan", "11": "Jimalalud", "12": "La Libertad", "13": "Mabinay", "14": "Manjuyod", "15": "Pamplona", "16": "San Jose", "17": "Santa Catalina", "18": "Siaton", "19": "Sibulan", "20": "Tanjay", "21": "Tayasan", "22": "Valencia (Luzurriaga)[C]", "23": "Vallehermoso", "24": "Zamboanguita" } ]
-      } ,
-      { "name":"Northern Samar",
-          "towns":[ { "0": "Allen", "1": "Biri", "2": "Bobon", "3": "Capul", "4": "Catarman", "5": "Catubig", "6": "Gamay", "7": "Laoang", "8": "Lapinig", "9": "Las Navas", "10": "Lavezares", "11": "Lope de Vega", "12": "Mapanas", "13": "Mondragon", "14": "Palapag", "15": "Pambujan", "16": "Rosario", "17": "San Antonio", "18": "San Isidro", "19": "San Jose", "20": "San Roque", "21": "San Vicente", "22": "Silvino Lobos", "23": "Victoria" } ]
-      } ,
-      { "name":"Nueva Ecija",
-          "towns":[ { "0": "Aliaga", "1": "Bongabon", "2": "Cabanatuan", "3": "Cabiao", "4": "Carranglan", "5": "Cuyapo", "6": "Gabaldon (Bitulok & Sabani)", "7": "Gapan", "8": "General Mamerto Natividad", "9": "General Tinio (Papaya)", "10": "Guimba", "11": "Jaen", "12": "Laur", "13": "Licab", "14": "Llanera", "15": "Lupao", "16": "Muñoz", "17": "Nampicuan", "18": "Palayan", "19": "Pantabangan", "20": "Peñaranda", "21": "Quezon", "22": "Rizal", "23": "San Antonio", "24": "San Isidro", "25": "Cabaritan (San Jose)", "26": "San Leonardo", "27": "Santa Rosa", "28": "Santo Domingo", "29": "Talavera", "30": "Talugtug", "31": "Zaragoza" } ]
-      } ,
-      { "name":"Nueva Vizcaya",
-          "towns":[ { "0": "Alfonso Castañeda", "1": "Ambaguio", "2": "Aritao", "3": "Bagabag", "4": "Bambang", "5": "Bayombong", "6": "Diadi", "7": "Dupax del Norte", "8": "Dupax del Sur", "9": "Kasibu", "10": "Kayapa", "11": "Quezon", "12": "Santa Fe", "13": "Solano", "14": "Villaverde" } ]
-      } ,
-      { "name":"Occidental Mindoro",
-          "towns":[ { "0": "Abra de Ilog", "1": "Calintaan", "2": "Looc", "3": "Lubang", "4": "Magsaysay", "5": "Mamburao", "6": "Paluan", "7": "Rizal", "8": "Sablayan", "9": "San Jose", "10": "Santa Cruz" } ]
-      } ,
-      { "name":"Oriental Mindoro",
-          "towns":[ { "0": "Baco", "1": "Bansud", "2": "Bongabong", "3": "Bulalacao (San Pedro)", "4": "Calapan", "5": "Gloria", "6": "Mansalay", "7": "Naujan", "8": "Pinamalayan", "9": "Pola", "10": "Puerto Galera", "11": "Roxas", "12": "San Teodoro", "13": "Socorro", "14": "Victoria" } ]
-      } ,
-      { "name":"Palawan",
-          "towns":[ { "0": "Aborlan", "1": "Agutaya", "2": "Araceli", "3": "Balabac", "4": "Bataraza", "5": "Brooke's Point", "6": "Busuanga", "7": "Cagayancillo", "8": "Coron", "9": "Culion", "10": "Cuyo", "11": "Dumaran", "12": "El Nido", "13": "Kalayaan", "14": "Linapacan", "15": "Magsaysay", "16": "Narra", "17": "Puerto Princesa", "18": "Quezon", "19": "Rizal", "20": "Roxas", "21": "San Vicente", "22": "Sofronio Española", "23": "Taytay" } ]
-      } ,
-      { "name":"Pampanga",
-          "towns":[ { "0": "Angeles", "1": "Apalit", "2": "Arayat", "3": "Bacolor", "4": "Candaba", "5": "Floridablanca", "6": "Guagua", "7": "Lubao", "8": "Mabalacat", "9": "Macabebe", "10": "Magalang", "11": "Masantol", "12": "Mexico", "13": "Minalin", "14": "Porac", "15": "San Fernando", "16": "San Luis", "17": "San Simon", "18": "Santa Ana", "19": "Santa Rita", "20": "Santo Tomas", "21": "Sasmuan" } ]
-      } ,
-      { "name":"Pangasinan",
-          "towns":[ { "0": "Alaminos", "1": "Dagupan", "2": "San Carlos", "3": "Urdaneta", "4": "Agno", "5": "Aguilar", "6": "Alcala", "7": "Anda", "8": "Asingan", "9": "Balungao", "10": "Bani", "11": "Basista", "12": "Bautista", "13": "Bayambang", "14": "Binalonan", "15": "Binmaley", "16": "Bolinao", "17": "Bugallon", "18": "Burgos", "19": "Calasiao", "20": "Dasol", "21": "Infanta", "22": "Labrador", "23": "Laoac", "24": "Lingayen", "25": "Mabini", "26": "Malasiqui", "27": "Manaoag", "28": "Mangaldan", "29": "Mangatarem", "30": "Mapandan", "31": "Natividad", "32": "Pozorrubio", "33": "Rosales", "34": "San Fabian", "35": "San Jacinto", "36": "San Manuel", "37": "San Nicolas", "38": "San Quintin", "39": "Santa Barbara", "40": "Santa Maria", "41": "Santo Tomas", "42": "Sison", "43": "Sual", "44": "Tayug", "45": "Umingan", "46": "Urbiztondo", "47": "Villasis" } ]
-      } ,
-      { "name":"Quezon",
-          "towns":[ { "0": "Agdangan", "1": "Alabat", "2": "Atimonan", "3": "Buenavista", "4": "Burdeos", "5": "Calauag", "6": "Candelaria", "7": "Catanauan", "8": "Dolores", "9": "General Luna", "10": "General Nakar", "11": "Guinayangan", "12": "Gumaca", "13": "Infanta", "14": "Jomalig", "15": "Lopez", "16": "Lucban", "17": "Lucena", "18": "Macalelon", "19": "Mauban", "20": "Mulanay", "21": "Padre Burgos", "22": "Pagbilao", "23": "Panukulan", "24": "Patnanungan", "25": "Perez", "26": "Pitogo", "27": "Plaridel", "28": "Polillo", "29": "Quezon", "30": "Real", "31": "Sampaloc", "32": "San Andres", "33": "San Antonio", "34": "San Francisco", "35": "San Narciso", "36": "Sariaya", "37": "Tagkawayan", "38": "Tayabas", "39": "Tiaong", "40": "Unisan" } ]
-      } ,
-      { "name":"Quirino",
-          "towns":[ { "0": "Aglipay", "1": "Cabarroguis", "2": "Diffun", "3": "Maddela", "4": "Nagtipunan", "5": "Saguday" } ]
-      } ,
-      { "name":"Rizal",
-          "towns":[ { "0": "Angono", "1": "Antipolo", "2": "Baras", "3": "Binangonan", "4": "Cainta", "5": "Cardona", "6": "Jalajala", "7": "Morong", "8": "Pililla", "9": "Rodriguez", "10": "San Mateo", "11": "Tanay", "12": "Taytay", "13": "Teresa" } ]
-      } ,
-      {  "name":"Romblon",
-          "towns":[ { "0": "Alcantara", "1": "Banton", "2": "Cajidiocan", "3": "Calatrava", "4": "Concepcion", "5": "Corcuera", "6": "Ferrol", "7": "Looc", "8": "Magdiwang", "9": "Odiongan", "10": "Romblon", "11": "San Agustin", "12": "San Andres", "13": "San Fernando", "14": "San Jose", "15": "Santa Fe", "16": "Santa Maria" } ]
-      } ,
-      { "name":"Samar",
-          "towns":[ { "0": "Almagro", "1": "Basey", "2": "Calbayog", "3": "Calbiga", "4": "Catbalogan", "5": "Daram", "6": "Gandara", "7": "Hinabangan", "8": "Jiabong", "9": "Marabut", "10": "Matuguinao", "11": "Motiong", "12": "Pagsanghan", "13": "Paranas (Wright)", "14": "Pinabacdao", "15": "San Jorge", "16": "San Jose de Buan", "17": "San Sebastian", "18": "Santa Margarita", "19": "Santa Rita", "20": "Santo Niño", "21": "Tagapul-an", "22": "Talalora", "23": "Tarangnan", "24": "Villareal", "25": "Zumarraga" } ]
-      } ,
-      { "name":"Sarangani",
-          "towns":[ { "0": "Alabel", "1": "Glan", "2": "Kiamba", "3": "Maasim", "4": "Maitum", "5": "Malapatan", "6": "Malungon" } ]
-      } ,
-      { "name":"Siquijor",
-          "towns":[ { "0": "Enrique Villanueva", "1": "Larena", "2": "Lazi", "3": "Maria", "4": "San Juan", "5": "Siquijor" } ]
-      } ,
-      { "name":"Sorsogon",
-          "towns":[ { "0": "Barcelona", "1": "Bulan", "2": "Bulusan", "3": "Casiguran", "4": "Castilla", "5": "Donsol", "6": "Gubat", "7": "Irosin", "8": "Juban", "9": "Magallanes", "10": "Matnog", "11": "Pilar", "12": "Prieto Diaz", "13": "Santa Magdalena", "14": "Sorsogon City" } ]
-      } ,
-      { "name":"South Cotabato",
-          "towns":[ { "0": "Banga", "1": "General Santos", "2": "Koronadal", "3": "Lake Sebu", "4": "Norala", "5": "Polomolok", "6": "Santo Niño", "7": "Surallah", "8": "T'Boli", "9": "Tampakan", "10": "Tantangan", "11": "Tupi" } ]
-      } ,
-      { "name":"Southern Leyte",
-          "towns":[ { "0": "Anahawan", "1": "Bontoc", "2": "Hinunangan", "3": "Hinundayan", "4": "Libagon", "5": "Liloan", "6": "Limasawa", "7": "Maasin", "8": "Macrohon", "9": "Malitbog", "10": "Padre Burgos", "11": "Pintuyan", "12": "Saint Bernard", "13": "San Francisco", "14": "San Juan", "15": "San Ricardo", "16": "Silago", "17": "Sogod", "18": "Tomas Oppus" } ]
-      } ,
-      { "name":"Sultan Kudarat",
-          "towns":[ { "0": "Bagumbayan", "1": "Columbio", "2": "Esperanza", "3": "Isulan", "4": "Kalamansig", "5": "Lambayong (Mariano Marcos)", "6": "Lebak", "7": "Lutayan", "8": "Palimbang", "9": "President Quirino", "10": "Senator Ninoy Aquino", "11": "Tacurong" } ]
-      } ,
-      { "name":"Sulu",
-          "towns":[ { "0": "Banguingui", "1": "Hadji Panglima Tahil", "2": "Indanan", "3": "Jolo", "4": "Kalingalan Caluang", "5": "Lugus", "6": "Luuk", "7": "Maimbung", "8": "Old Panamao", "9": "Omar", "10": "Pandami", "11": "Panglima Estino", "12": "Pangutaran", "13": "Parang", "14": "Pata", "15": "Patikul", "16": "Siasi", "17": "Talipao", "18": "Tapul" } ]
-      } ,
-      { "name":"Surigao del Norte",
-          "towns":[ { "0": "Alegria", "1": "Bacuag", "2": "Burgos", "3": "Claver", "4": "Dapa", "5": "Del Carmen", "6": "General Luna", "7": "Gigaquit", "8": "Mainit", "9": "Malimono", "10": "Pilar", "11": "Placer", "12": "San Benito", "13": "San Francisco (Anao-Aon)", "14": "San Isidro", "15": "Santa Monica (Sapao)", "16": "Sison", "17": "Socorro", "18": "Surigao City", "19": "Tagana-an", "20": "Tubod" } ]
-      } ,
-      { "name":"Surigao del Sur",
-          "towns":[ { "0": "Barobo", "1": "Bayabas", "2": "Bislig", "3": "Cagwait", "4": "Cantilan", "5": "Carmen", "6": "Carrascal", "7": "Cortes", "8": "Hinatuan", "9": "Lanuza", "10": "Lianga", "11": "Lingig", "12": "Madrid", "13": "Marihatag", "14": "San Agustin", "15": "San Miguel", "16": "Tagbina", "17": "Tago", "18": "Tandag" } ]
-      } ,
-      { "name":"Tarlac",
-          "towns":[ { "0": "Anao", "1": "Bamban", "2": "Camiling", "3": "Capas", "4": "Concepcion", "5": "Gerona", "6": "La Paz", "7": "Mayantoc", "8": "Moncada", "9": "Paniqui", "10": "Pura", "11": "Ramos", "12": "San Clemente", "13": "San Jose", "14": "San Manuel", "15": "Santa Ignacia", "16": "Tarlac City", "17": "Victoria" } ]
-      } ,
-      { "name":"Tawi-Tawi",
-          "towns":[ { "0": "Bongao", "1": "Languyan", "2": "Mapun", "3": "Panglima Sugala[ii]", "4": "Sapa-Sapa", "5": "Sibutu", "6": "Simunul", "7": "Sitangkai", "8": "South Ubian", "9": "Tandubas", "10": "Turtle Islands" } ]
-      } ,
-      { "name":"Zambales",
-          "towns":[ { "0": "Botolan", "1": "Cabangan", "2": "Candelaria", "3": "Castillejos", "4": "Iba", "5": "Masinloc", "6": "Olongapo", "7": "Palauig", "8": "San Antonio", "9": "San Felipe", "10": "San Marcelino", "11": "San Narciso", "12": "Santa Cruz", "13": "Subic" } ]
-      } ,
-      { "name":"Zamboanga del Norte",
-          "towns":[ { "0": "Baliguian", "1": "Dapitan", "2": "Dipolog", "3": "Godod", "4": "Gutalac", "5": "Jose Dalman", "6": "Kalawit", "7": "Katipunan", "8": "La Libertad", "9": "Labason", "10": "Leon B Postigo", "11": "Liloy", "12": "Manukan", "13": "Mutia", "14": "Piñan", "15": "Polanco", "16": "President Manuel A. Roxas", "17": "Rizal", "18": "Salug", "19": "Sergio Osmeña Sr.", "20": "Siayan", "21": "Sibuco", "22": "Sibutad", "23": "Sindangan", "24": "Siocon", "25": "Sirawai", "26": "Tampilisan" } ]
-      } ,
-      { "name":"Zamboanga del Sur",
-          "towns":[ { "0": "Aurora", "1": "Bayog", "2": "Dimataling", "3": "Dinas", "4": "Dumalinao", "5": "Dumingag", "6": "Guipos", "7": "Josefina", "8": "Kumalarang", "9": "Labangan", "10": "Lakewood", "11": "Lapuyan", "12": "Mahayag", "13": "Margosatubig", "14": "Midsalip", "15": "Molave", "16": "Pagadian", "17": "Pitogo", "18": "Ramon Magsaysay (Liargo)", "19": "San Miguel", "20": "San Pablo", "21": "Sominot (Don Mariano Marcos)", "22": "Tabina", "23": "Tambulig", "24": "Tigbao", "25": "Tukuran", "26": "Vincenzo A Sagun", "27": "Zamboanga City" } ]
-      } ,
-      { "name":"Zamboanga Sibugay",
-          "towns":[ { "0": "Alicia", "1": "Buug", "2": "Diplahan", "3": "Imelda", "4": "Ipil", "5": "Kabasalan", "6": "Mabuhay", "7": "Malangas", "8": "Naga", "9": "Olutanga", "10": "Payao", "11": "Roseller Lim", "12": "Siay", "13": "Talusan", "14": "Titay", "15": "Tungawan" } ]
-      } ,
-      { "name":"Metro Manila",
-          "towns":[ { "0": "Caloocan", "1": "Las Piñas", "2": "Makati", "3": "Malabon", "4": "Mandaluyong", "5": "City of Manila", "6": "Marikina", "7": "Muntinlupa", "8": "Navotas", "9": "Parañaque", "10": "Pasay", "11": "Pasig", "12": "Pateros", "13": "Quezon City", "14": "San Juan", "15": "Taguig", "16": "Valenzuela" } ]
-      } 
+      { "name": "Region 9 (Zamboanga Peninsula)",
+        "provinces": [
+          { "name":"Zamboanga del Norte",
+            "towns": [ { "0": "Baliguian", "1": "Dapitan", "2": "Dipolog", "3": "Godod", "4": "Gutalac", "5": "Jose Dalman", "6": "Kalawit", "7": "Katipunan", "8": "La Libertad", "9": "Labason", "10": "Leon B Postigo", "11": "Liloy", "12": "Manukan", "13": "Mutia", "14": "Piñan", "15": "Polanco", "16": "President Manuel A. Roxas", "17": "Rizal", "18": "Salug", "19": "Sergio Osmeña Sr.", "20": "Siayan", "21": "Sibuco", "22": "Sibutad", "23": "Sindangan", "24": "Siocon", "25": "Sirawai", "26": "Tampilisan" } ]
+          },
+          { "name":"Zamboanga del Sur",
+            "towns": [ { "0": "Aurora", "1": "Bayog", "2": "Dimataling", "3": "Dinas", "4": "Dumalinao", "5": "Dumingag", "6": "Guipos", "7": "Josefina", "8": "Kumalarang", "9": "Labangan", "10": "Lakewood", "11": "Lapuyan", "12": "Mahayag", "13": "Margosatubig", "14": "Midsalip", "15": "Molave", "16": "Pagadian", "17": "Pitogo", "18": "Ramon Magsaysay (Liargo)", "19": "San Miguel", "20": "San Pablo", "21": "Sominot (Don Mariano Marcos)", "22": "Tabina", "23": "Tambulig", "24": "Tigbao", "25": "Tukuran", "26": "Vincenzo A Sagun", "27": "Zamboanga City" } ]
+          },
+          { "name":"Zamboanga Sibugay",
+            "towns": [ { "0": "Alicia", "1": "Buug", "2": "Diplahan", "3": "Imelda", "4": "Ipil", "5": "Kabasalan", "6": "Mabuhay", "7": "Malangas", "8": "Naga", "9": "Olutanga", "10": "Payao", "11": "Roseller Lim", "12": "Siay", "13": "Talusan", "14": "Titay", "15": "Tungawan" } ]
+          }
+        ],
+        "towns": ""
+      },
+      { "name": "Region 10 (Northern Mindanao)",
+        "provinces": [
+          { "name":"Bukidnon",
+            "towns": [ { "0": "Baungon", "1": "Cabanglasan", "2": "Damulog", "3": "Dangcagan", "4": "Don Carlos", "5": "Impasugong", "6": "Kadingilan", "7": "Kalilangan", "8": "Kibawe", "9": "Kitaotao", "10": "Lantapan", "11": "Libona", "12": "Malaybalay", "13": "Malitbog", "14": "Manolo Fortich", "15": "Maramag", "16": "Pangantucan", "17": "Quezon", "18": "San Fernando", "19": "Sumilao", "20": "Talakag", "21": "Valencia", "22": "AMA Computer Learning Center", "23": "Bukidnon State University", "24": "Central Mindanao University", "25": "", "26": "", "27": "", "28": "", "29": "Mountain View College", "30": "", "31": "", "32": "", "33": "", "34": "San Agustin Institute of Technology", "35": "", "36": "STI Learning Center", "37": "", "38": "Valencia Colleges (Bukidnon), Inc" } ]
+          },
+          { "name":"Camiguin",
+            "towns": [ { "0": "Catarman", "1": "Guinsiliban", "2": "Mahinog", "3": "Mambajao", "4": "Sagay" } ]
+          },
+          { "name":"Lanao del Norte",
+            "towns": [ {"0": "Bacolod", "1": "Baloi", "2": "Baroy", "3": "Iligan", "4": "Kapatagan", "5": "Kauswagan", "6": "Kolambugan", "7": "Lala", "8": "Linamon", "9": "Magsaysay", "10": "Maigo", "11": "Matungao", "12": "Munai", "13": "Nunungan", "14": "Pantao Ragat", "15": "Pantar", "16": "Poona Piagapo", "17": "Salvador", "18": "Sapad", "19": "Sultan Naga Dimaporo (Karomatan)", "20": "Tagoloan", "21": "Tangcal", "22": "Tubod"}]
+          },
+          { "name":"Misamis Oriental",
+            "towns": [ { "0": "Alubijid", "1": "Balingasag", "2": "Balingoan", "3": "Binuangan", "4": "Cagayan de Oro", "5": "Claveria", "6": "El Salvador", "7": "Gingoog", "8": "Gitagum", "9": "Initao", "10": "Jasaan", "11": "Kinoguitan", "12": "Lagonglong", "13": "Laguindingan", "14": "Libertad", "15": "Lugait", "16": "Magsaysay", "17": "Manticao", "18": "Medina", "19": "Naawan", "20": "Opol", "21": "Salay", "22": "Sugbongcogon", "23": "Tagoloan", "24": "Talisayan", "25": "Villanueva"} ]
+          },
+          { "name":"Misamis Occidental",
+            "towns": [ { "0": "Aloran", "1": "Baliangao", "2": "Bonifacio", "3": "Calamba", "4": "Clarin", "5": "Concepcion", "6": "Don Victoriano Chiongbian(Don Mariano Marcos)", "7": "Jimenez", "8": "Lopez Jaena", "9": "Oroquieta", "10": "Ozamiz", "11": "Panaon", "12": "Plaridel", "13": "Sapang Dalaga", "14": "Sinacaban", "15": "Tangub", "16": "Tudela"} ]
+          }
+        ],
+        "towns": ""
+      },
+      { "name": "Region 11 (Davao Region)",
+        "provinces": [
+          { "name":"Compostela Valley",
+            "towns": [ { "0": "Compostela", "1": "Laak", "2": "Mabini", "3": "Maco", "4": "Maragusan", "5": "Mawab", "6": "Monkayo", "7": "Montevista", "8": "Nabunturan", "9": "New Bataan", "10": "Pantukan" } ]
+          },
+          { "name":"Davao del Norte",
+            "towns": [ { "0": "Asuncion", "1": "Braulio E Dujali", "2": "Carmen", "3": "Kapalong", "4": "New Corella", "5": "Panabo", "6": "Samal", "7": "San Isidro", "8": "Santo Tomas", "9": "Tagum", "10": "Talaingod"} ]
+          },
+          { "name":"Davao del Sur",
+            "towns": [ { "0": "Bansalan", "1": "Davao City", "2": "Digos", "3": "Hagonoy", "4": "Kiblawan", "5": "Magsaysay", "6": "Malalag", "7": "Matanao", "8": "Padada", "9": "Santa Cruz", "10": "Sulop"} ]
+          },
+          { "name":"Davao Oriental",
+            "towns": [ { "0": "Baganga", "1": "Banaybanay", "2": "Boston", "3": "Caraga", "4": "Cateel", "5": "Governor Generoso", "6": "Lupon", "7": "Manay", "8": "Mati", "9": "San Isidro", "10": "Tarragona"} ]
+          },
+          { "name":"Davao Occidental",
+            "towns": [ { "0": "Don Marcelino", "1": "Jose Abad Santos", "2": "Malita", "3": "Santa Maria", "4": "Sarangani"} ]
+          }
+        ],
+        "towns": ""
+      },
+      { "name": "Region 12 (SOCCSKSARGEN)",
+        "provinces": [
+          { "name":"Cotabato",
+            "towns": [ { "0": "Alamada", "1": "Aleosan", "2": "Antipas", "3": "Arakan", "4": "Banisilan", "5": "Carmen", "6": "Kabacan", "7": "Kidapawan", "8": "Libungan", "9": "M'lang", "10": "Magpet", "11": "Makilala", "12": "Matalam", "13": "Midsayap", "14": "Pigcawayan", "15": "Pikit", "16": "President Roxas", "17": "Tulunan"} ]
+          },
+          { "name":"Sarangani",
+            "towns": [ { "0": "Alabel", "1": "Glan", "2": "Kiamba", "3": "Maasim", "4": "Maitum", "5": "Malapatan", "6": "Malungon" } ]
+          },
+          { "name":"South Cotabato",
+            "towns": [ { "0": "Banga", "1": "General Santos", "2": "Koronadal", "3": "Lake Sebu", "4": "Norala", "5": "Polomolok", "6": "Santo Niño", "7": "Surallah", "8": "T'Boli", "9": "Tampakan", "10": "Tantangan", "11": "Tupi" } ]
+          },
+          { "name":"Sultan Kudarat",
+            "towns": [ { "0": "Bagumbayan", "1": "Columbio", "2": "Esperanza", "3": "Isulan", "4": "Kalamansig", "5": "Lambayong (Mariano Marcos)", "6": "Lebak", "7": "Lutayan", "8": "Palimbang", "9": "President Quirino", "10": "Senator Ninoy Aquino", "11": "Tacurong" } ]
+          }
+        ],
+        "towns": ""
+      },
+      { "name": "Region 13 (Caraga Region)",
+        "provinces": [
+          { "name":"Agusan del Norte",
+            "towns": [ { "0": "Buenavista", "1": "Butuan", "2": "Cabadbaran", "3": "Carmen", "4": "Jabonga", "5": "Kitcharao", "6": "Las Nieves", "7": "Magallanes", "8": "Nasipit", "9": "Remedios T Romualdez", "10": "Santiago", "11": "Tubay" } ]
+          },
+          { "name":"Agusan del Sur",
+            "towns": [ { "0": "Bayugan", "1": "Bunawan", "2": "Esperanza", "3": "La Paz", "4": "Loreto", "5": "Prosperidad", "6": "Rosario", "7": "San Francisco", "8": "San Luis", "9": "Santa Josefa", "10": "Sibagat", "11": "Talacogon", "12": "Trento", "13": "Veruela" } ]
+          },
+          { "name":"Dinagat Islands",
+            "towns": [ { "0": "Basilisa", "1": "Cagdianao", "2": "Dinagat", "3": "Libjo", "4": "Loreto", "5": "San Jose", "6": "Tubajon"} ]
+          },
+          { "name":"Surigao del Norte",
+            "towns": [ { "0": "Alegria", "1": "Bacuag", "2": "Burgos", "3": "Claver", "4": "Dapa", "5": "Del Carmen", "6": "General Luna", "7": "Gigaquit", "8": "Mainit", "9": "Malimono", "10": "Pilar", "11": "Placer", "12": "San Benito", "13": "San Francisco (Anao-Aon)", "14": "San Isidro", "15": "Santa Monica (Sapao)", "16": "Sison", "17": "Socorro", "18": "Surigao City", "19": "Tagana-an", "20": "Tubod" } ]
+          },
+          { "name":"Surigao del Sur",
+            "towns": [ { "0": "Barobo", "1": "Bayabas", "2": "Bislig", "3": "Cagwait", "4": "Cantilan", "5": "Carmen", "6": "Carrascal", "7": "Cortes", "8": "Hinatuan", "9": "Lanuza", "10": "Lianga", "11": "Lingig", "12": "Madrid", "13": "Marihatag", "14": "San Agustin", "15": "San Miguel", "16": "Tagbina", "17": "Tago", "18": "Tandag" } ]
+          }
+        ],
+        "towns": ""
+      }
+
     ]
    },
    {
