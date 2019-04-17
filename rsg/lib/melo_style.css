@@ -1,0 +1,189 @@
+
+
+/*************** BODY ***************/
+body{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1920px;
+    overflow-x: hidden !important;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: normal;
+    color: #1a1a1a;
+    position: relative;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    background: #222; }
+::-webkit-scrollbar-track {
+    background: none;
+    background-color: none;
+    box-shadow: none; 
+    -webkit-box-shadow: none; 
+    border-radius: 100%; }
+::-webkit-scrollbar-thumb {
+    background: #d0a34b; 
+    border-radius: 5px; }
+::-webkit-scrollbar-thumb:hover {
+    background: #d0a34b;  }
+
+
+/*************** FONTS ***************/
+.rsg-codeigniter h1, .rsg-codeigniter h2, .rsg-codeigniter h3, .rsg-codeigniter h4, .rsg-codeigniter h5{
+    margin: 0;  
+}
+.rsg-codeigniter h1{
+    font-size: 30px;
+}
+.rsg-codeigniter h2{
+    font-size: 25px;
+}
+.rsg-codeigniter h3{
+    font-size: 20px;
+}
+.rsg-codeigniter h4{
+    font-size: 18px;
+}
+.rsg-codeigniter h5{
+    font-size: 13px;
+}
+.rsg-codeigniter p{
+    margin: 0;
+}
+.rsg-codeigniter a{
+    color: #1a1a1a;
+    outline: none !important;
+    transition: ease .4s; -webkit-transition: ease .4s;
+    cursor: pointer;
+    text-decoration: none;
+}
+.rsg-codeigniter a:hover{
+    text-decoration: none;
+    transition: ease .4s; -webkit-transition: ease .4s;
+    color: #F1502F;
+}
+.rsg-codeigniter a.fb-link{
+    color: #3b5998;
+}
+.rsg-codeigniter a.ig-link{
+    color: #8a3ab9;
+}
+.rsg-codeigniter a.in-link{
+    color: #0077B5;
+}
+.rsg-codeigniter a.git-link{
+    color: #F1502F;
+}
+.rsg-codeigniter a.wp-link{
+    color: #00749c;
+}
+.rsg-h2-title-dark{
+    padding: 10px;
+    color: #1a1a1a;
+    font-weight: 700;
+}
+ 
+
+/*************** HEADER ***************/
+.rsg-codeigniter header{
+    position: relative;
+    padding: 5px;
+    text-align: right;
+    border-bottom: 2px solid #1a1a1a;
+}
+.rsg-codeigniter header div{
+    width: 95%;
+    margin: auto;
+    display: block;
+}
+.rsg-codeigniter header span{
+    font-size: 25px;
+    cursor: pointer;
+    transition: ease .4s; -webkit-transition: ease .4s;
+}
+.rsg-codeigniter header span:hover{
+    transition: ease .4s; -webkit-transition: ease .4s;
+    color: #F1502F;
+}
+
+/*************** NAVIGATIONS ***************/
+nav.rsg-popup-nav{
+    z-index: 999;
+    background-color: rgba( 0,0,0,0.8 );
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+nav.rsg-popup-nav .rsg-vertical-menu-popup{
+    border-right: 5px solid #F1502F;
+    background-color: #1a1a1a;
+}
+nav.rsg-popup-nav .rsg-vertical-menu-popup a:hover{
+    color: #F1502F;
+    border-bottom-color: #F1502F;
+}
+/*nav.rsg-popup-nav .rsg-popup-content{
+    width: 100%;
+    position: relative;
+    max-width: 500px;
+    background: #968e8e;
+    margin: 30px auto;
+    padding: 30px 10px;
+}
+
+nav.rsg-popup-nav .rsg-popup-content a{
+    display: block;
+    width: 100%;
+    color: #fff;
+    padding: 5px 15px;
+}*/
+
+
+/*************** FOOTER ***************/
+.rsg-footer{
+    background-color: #fff;
+    padding: 10px 5px;
+    width: 100%;
+    position: relative;
+    left: 0; right: 0;
+    overflow: hidden;
+    border-top: 5px solid #1a1a1a;
+}
+.rsg-footer .rsg-socials{
+    text-align: center;
+    width: 95%;
+    margin: auto;
+}
+.rsg-footer .rsg-socials h2{
+    padding-bottom: 30px;
+}
+.rsg-footer .rsg-socials a{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 30px;
+    opacity: 0.9;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+.rsg-footer .rsg-socials a:hover{
+    opacity: 1;
+    transform: scale(1.2);
+    border-bottom-color: #1a1a1a;
+    border-top-color: #1a1a1a;
+}
+.rsg-copyright{
+    width: 100%;
+    background-color: #1a1a1a;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+    left: 0; right: 0;
+    overflow: hidden;
+    font-size: 12px;
+    font-weight: 700;
+}
+.rsg-copyright em{
+    width: 95%;
+    margin: auto;
+    display: block;
+}
